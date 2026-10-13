@@ -1,228 +1,228 @@
-﻿id,name,address,addressType,exception,lat,lon,status,type,score,matched
-RIV-001,RIVALITAS D.O.O.,"GARDUN 52, 21240 TRILJ, Hrvatska",Delivery,False,43.621642924257,16.709365835292,matched,StreetAddress,100,"Gardun 52, 21240, Trilj, Splitsko-dalmatinska"
-D106871,B-KOP,"IMOTSKA 19, 21311 Stobreč, Hrvatska",Delivery,False,43.502341594315,16.523087479418,matched,PointAddress,100,"Imotska 19, 21311, Stobreč, Split, Splitsko-dalmatinska županija"
-PRI-009,PRIZMIĆ D.O.O.,"OSIJECKA 11, 21000 SPLIT, Hrvatska",Delivery,False,43.508748553465,16.451386584179,matched,PointAddress,97.29,"Osječka 11, 21000, Split, Splitsko-dalmatinska županija"
-D105456,DAMOR AUTO d.o.o.,"CESTA IVANA PAVLA II 9., 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,False,43.549656264274,16.435780653933,matched,PointAddress,100,"Cesta Pape Ivana Pavla II. 9, 21212, Kaštel Sućurac, Kaštela, Splitsko-dalmatinska županija"
-D104817,MOTOBOX D.O.O.,"VIDINA 11 (ULAZ IZ VUKOVARSKE), 21000 SPLIT, Hrvatska",Delivery,False,43.51573583368,16.480763059333,matched,PointAddress,97.62,"Vidina 11, 21000, Split, Splitsko-dalmatinska županija"
-D104680,MARKO ANČIĆ D.O.O.,"PUT SIROBUJE 51A, 21000 SPLIT, Hrvatska",Headquarters,False,43.505811618411,16.514991315322,matched,PointAddress,100,"Put Sirobuje 51A, 21000, Split, Splitsko-dalmatinska županija"
-D125454,AUTO MUŠE J.D.O.O.,"A.G. MATOŠA 16, 21210 SOLIN, Hrvatska",Delivery,False,45.287893418141,19.110964709282,matched,StreetAddress,89.07,"Antuna Gustava Matoša 16, 32000, Sotin, Vukovar, Vukovarsko-srijemska"
-D107926,SERVIS GASOLINA,"PUT SIROTKOVIĆA 23A, 21251 ŽRNOVNICA, Hrvatska",Headquarters,False,43.521252631,16.553822047,review,Locality,77.44,"Žrnovnica, Split, Splitsko-dalmatinska županija"
-D115347,AUTOMEHANIČARSKE USLUGE BOLE,"CESTA IVANA PAVLA II 248, 21216 KAŠTEL STARI, Hrvatska",Headquarters,False,43.558854342233,16.35031070512,matched,StreetAddress,99.51,"Cesta pape Ivana Pavla II 248, 21217, Kaštel Stari, Kaštela, Splitsko-dalmatinska"
-D108578,ČOVO METALI D.O.O.,"KARAKAŠICA 126, 21230 SINJ, Hrvatska",Headquarters,False,43.738246026327,16.637939669489,matched,PointAddress,100,"Karakašica 126, 21230, Karakašica, Sinj, Splitsko-dalmatinska županija"
-D129168,L. & A. Auto works d.o.o.,"PUT STARINA 6, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,False,43.551235582471,16.43131661994,matched,PointAddress,100,"Put Starina 6, 21212, Kaštel Sućurac, Kaštela, Splitsko-dalmatinska županija"
-D107030,AUTOBUS D.O.O.,"SV.LEOPOLDA MANDIĆA 20, 21204 DUGOPOLJE, Hrvatska",Delivery,False,43.590099299647,16.572841216388,review,StreetName,95.86,"Ulica svetog Leopolda Mandića, 21204, Dugopolje, Splitsko-dalmatinska"
-D124195,JADRAN TRANSPORT,"TURJACI 349, 21230 SINJ, Hrvatska",Delivery,False,43.651288432838,16.640178140551,matched,PointAddress,100,"Turjaci 349, 21230, Turjaci, Sinj, Splitsko-dalmatinska županija"
-D106187,AUTOMOBILIA d.o.o,"DOMOVINSKOG RATA97, 21000 Split, Hrvatska",Delivery,False,43.519386571608,16.475475587172,matched,PointAddress,99.5,"Domovinskog rata 97, 21000, Split, Splitsko-dalmatinska županija"
-D111924,CUMMINS ADRIATIC D.O.O.,"KRALJICE JELENE 15, 21204 DUGOPOLJE, Hrvatska",Headquarters,False,43.589775112267,16.585706331109,matched,PointAddress,100,"Kraljice Jelene 15, 21204, Dugopolje, Splitsko-dalmatinska županija"
-D108434,OBRT TESLA,"SV.JOSIPA 18, 21423 NEREŽIŠĆA, Hrvatska",Headquarters,False,43.329902879582,16.574988726794,matched,PointAddress,100,"Sv. Josipa 18, 21423, Nerežišća, Splitsko-dalmatinska županija"
-D109097,MARINE CLUB INTERNATIO. D.O.O.,"Put sjeverne luke 11, 21000 SPLIT, Hrvatska",Headquarters,False,43.526757198166,16.461452244065,matched,PointAddress,100,"Put Sjeverne luke 11, 21000, Split, Splitsko-dalmatinska županija"
-D109218,AUTO SERVIS ŽUTI,"FRANJE TUĐMANA 1090, 21217 Kaštel Štafilić, Hrvatska",Headquarters,False,43.548908658398,16.325090951301,matched,StreetAddress,99.05,"Cesta dr. Franje Tuđmana 1090, 21217, Kaštel Novi, Kaštela, Splitsko-dalmatinska"
-BER-008,BERICA D.O.O.,"NEREŽIŠĆA bb, 21243 NEREŽIŠĆA/BRAČ, Hrvatska",Delivery,False,43.330168432,16.575442999,review,Locality,89.37,"Nerežišća, Splitsko-dalmatinska županija"
-D116918,PUDE SERVIS D.O.O.,"DR.F.TUĐMANA 5, 21222 MARINA, Hrvatska",Headquarters,False,43.513417944086,16.112646048941,matched,PointAddress,100,"Dr. Franje Tuđmana 5, 21222, Marina, Splitsko-dalmatinska županija"
-D109475,AUTOSERVIS MARINIĆ D.O.O.,"KNEZA TRPIMIRA 56A, 21210 SOLIN, Hrvatska",Headquarters,False,43.547986002428,16.49469562643,matched,PointAddress,100,"Kneza Trpimira 56A, 21210, Solin, Splitsko-dalmatinska županija"
-D129462,FJAKA OBRT,"TURJACI 346 KUKUZOVAC, 21230 SINJ, Hrvatska",Delivery,False,43.651213917719,16.638285674452,matched,PointAddress,97.5,"Turjaci 346, 21230, Turjaci, Sinj, Splitsko-dalmatinska županija"
-ZTO-001,Z.T.O.  ROBI,"TROGIRSKA CESTA 14, 21220 TROGIR, Hrvatska",Delivery,False,43.528656495516,16.245076095799,matched,PointAddress,100,"Trogirska Cesta 14, 21220, Trogir, Splitsko-dalmatinska županija"
-D104468,CROATIA YACHTING D.O.O.,"OBALA KRALJA TOMISLAVA 11A, 21213 KAŠTEL GOMILICA, Hrvatska",Delivery,False,43.548575501679,16.388037081989,matched,PointAddress,96.52,"Obala Kralja Tomislava 11, 21214, Kaštel Kambelovac, Kaštela, Splitsko-dalmatinska županija"
-D124140,AUTO DALMACIJA D.O.O.,"CESTA PLANO 2A, 21220 TROGIR, Hrvatska",Headquarters,False,43.537755470508,16.285541996493,matched,PointAddress,100,"Cesta Plano 2A, 21220, Plano, Trogir, Splitsko-dalmatinska županija"
-BAL-001,AUTOKUĆA BALINJERA d.o.o.,"Put Duja 1 a, 21000 S P L I T, Hrvatska",Headquarters,False,43.523575008625,16.462030595384,matched,PointAddress,98.25,"Put Duja 1A, 21000, Split, Splitsko-dalmatinska županija"
-LOV-001,LOVRET  d.o.o,"PODČELINA 37, 21312 PODSTRANA, Hrvatska",Delivery,False,43.496254907686,16.540256550787,matched,PointAddress,100,"Podčelina 37, 21312, Strožanac Donji, Podstrana, Splitsko-dalmatinska županija"
-D124455,AUTOSERVIS NINKOVIĆ J.D.O.O.,"HRVATSKIH BRANITELJA 11, 21403 SUTIVAN, Hrvatska",Headquarters,False,43.382219408351,16.478302048742,matched,PointAddress,100,"Hrvatskih branitelja 11, 21403, Sutivan, Splitsko-dalmatinska županija"
-VEL-016,VELOCITAS d.o.o.,"SV.MIHOVILA 7, 21204 DUGOPOLJE, Hrvatska",Headquarters,False,43.587870154584,16.582637345766,matched,StreetAddress,99.02,"Ulica svetog Mihovila 7, 21204, Dugopolje, Splitsko-dalmatinska"
-D103328,PLING D.O.O.,"K.ZVONIMIRA 75, 21210 SOLIN, Hrvatska",Headquarters,False,43.536723448679,16.489368507866,matched,PointAddress,100,"Kralja Zvonimira 75, 21210, Solin, Splitsko-dalmatinska županija"
-D114477,TORNUS D.O.O.,"PUT PRJE 3A, 21410 POSTIRA, Hrvatska",Headquarters,False,43.376418335073,16.623663276724,matched,PointAddress,100,"Put Prje 3A, 21410, Postira, Splitsko-dalmatinska županija"
-D101612,M-P-BETON d.o.o.,"DON FRANE BULIĆA 209, 21210 SOLIN, Hrvatska",Headquarters,False,43.54473001023,16.459170019468,matched,PointAddress,100,"Don Frane Bulića 209, 21210, Solin, Splitsko-dalmatinska županija"
-D106043,SAN-GRA D.O.O.,"KAMENOLOM(KAVA), 21209 MRAVINCE, Hrvatska",Delivery,False,43.532469065,16.515961922,review,Locality,78.82,"Mravince, Solin, Splitsko-dalmatinska županija"
-D107237,CLISSA D.O.O.,"Cesta dr.Franje >Tuđmana 16, 21231 Klis, Hrvatska",Delivery,False,43.575081049267,16.536165679123,matched,PointAddress,98.36,"Ulica Dr. Franje Tuđmana 16, 21231, Klis, Splitsko-dalmatinska županija"
-D124082,TRUCK AND CAR D.O.O.,"BRAĆE RADIĆ 27, 21209 MRAVINCE, Hrvatska",Delivery,False,43.53564557784,16.519693646822,matched,PointAddress,96.63,"Braće Radića 27, 21210, Mravince, Solin, Splitsko-dalmatinska županija"
-D124086,Q-YACHT D.O.O.,"SPLITSKA 22-24, 22202 PRIMOŠTEN, Hrvatska",Delivery,False,43.570653434643,15.943777773503,matched,PointAddress,99.41,"Splitska 22, 22202, Primošten, Šibensko-kninska županija"
-D110025,P.&P. YACHTCHARTER d.o.o.,"SPLITSKA 22-24, 22202 PRIMOŠTEN, Hrvatska",Delivery,False,43.570653434643,15.943777773503,matched,PointAddress,99.41,"Splitska 22, 22202, Primošten, Šibensko-kninska županija"
-MER-009,AUTOMEHANIČARSKI OBRT MERCEDES,"SVETE TEKLE 3, 21210 SOLIN, Hrvatska",Headquarters,False,43.532268467141,16.508088650419,matched,PointAddress,100,"Sv. Tekle 3, 21210, Mravince, Solin, Splitsko-dalmatinska županija"
-KRE-010,KREMIK SERVIS D.O.O.,"SPLITSKA 22/24, 22202 PRIMOŠTEN, Hrvatska",Headquarters,False,43.570653434643,15.943777773503,matched,PointAddress,99.41,"Splitska 22, 22202, Primošten, Šibensko-kninska županija"
-IKL-001,AUTOSERVIS IKLJAŠ,"SV. LUKE 4, 21238 OTOK (DALMACIJA), Hrvatska",Delivery,False,43.688232341636,16.731996273963,matched,PointAddress,97.27,"Sv. Luke 4, 21238, Otok, Splitsko-dalmatinska županija"
-D131377,GEO PARS D.O.O.,"VUKOVARSKA 164, 21000 SPLIT, Hrvatska",Headquarters,False,43.515249767115,16.47803734824,matched,PointAddress,100,"Vukovarska 164, 21000, Split, Splitsko-dalmatinska županija"
-ATT-002,ATT D.O.O,"N/R TOMISLAV, 21000 SPLIT, Hrvatska",Delivery,False,43.5070329,16.4422965,review,Postal,85.71,"21000, Split, Splitsko-dalmatinska"
-D112080,AUTOSERVIS GEDOR D.O.O.,"SV. MIHOVILA 13B, 21204 DUGOPOLJE, Hrvatska",Headquarters,False,43.588237200672,16.58364765187,matched,PointAddress,100,"Sv. Mihovila 13B, 21204, Dugopolje, Splitsko-dalmatinska županija"
-D134143,AUTOSERVIS MRAVAK,"VRANJIČKI PUT 56, 21000 SPLIT, Hrvatska",Delivery,False,43.525832129422,16.468675097669,matched,PointAddress,100,"Vranjički Put 56, 21000, Split, Splitsko-dalmatinska županija"
-D130798,JDM AUTOMEHANIČARSKI OBRT,"STROŽANAČKA 53, 21312 PODSTRANA, Hrvatska",Headquarters,False,43.497060995315,16.537322800857,matched,PointAddress,100,"Strožanačka 53, 21312, Strožanac Donji, Podstrana, Splitsko-dalmatinska županija"
-D127159,GRAVITON D.O.O.,"OBALA PETRA KREŠIMIRA IV 3, 21327 PODGORA, Hrvatska",Headquarters,False,43.244241798876,17.069584381333,matched,PointAddress,100,"Obala Petra Krešimira IV 3, 21327, Podgora, Splitsko-dalmatinska županija"
-D112550,AUTOSERVIS KLJAJO,"PRIBLAČE 4 A, 21238 OTOK (DALMACIJA), Hrvatska",Headquarters,False,43.682340408527,16.724930581043,matched,PointAddress,97.49,"Priblaće 4a, 21238, Otok, Splitsko-dalmatinska županija"
-D100482,AUTOELEKTROSERVIS ŠABIĆ,"BRNAZE 176, 21230 SINJ, Hrvatska",Headquarters,False,43.690478104954,16.647337040234,matched,PointAddress,100,"Brnaze 176, 21230, Brnaze, Sinj, Splitsko-dalmatinska županija"
-D132105,IN &  OUT OBRT,"PUT KRSTOLOVAČE 13, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,False,43.552945784085,16.420522740307,matched,PointAddress,100,"Put Krstolovače 13, 21212, Kaštel Sućurac, Kaštela, Splitsko-dalmatinska županija"
-PRO-033,PROPULZIJA D.O.O.,"SVETOG DUJE 10 A, 21204 DUGOPOLJE, Hrvatska",Headquarters,False,43.589560451726,16.575069695979,matched,PointAddress,99.99,"Sv. Duje 10A, 21204, Dugopolje, Splitsko-dalmatinska županija"
-D107302,GLANC D.O.O.,"MATOŠEVA 84, 21210 SOLIN, Hrvatska",Headquarters,False,43.530078192023,16.50267712609,matched,PointAddress,100,"Matoševa 84, 21210, Solin, Splitsko-dalmatinska županija"
-D123203,KREMIK NAUTIC CENTER D.O.O.,"SPLITSKA 22-24, 22202 PRIMOŠTEN, Hrvatska",Delivery,False,43.570653434643,15.943777773503,matched,PointAddress,99.41,"Splitska 22, 22202, Primošten, Šibensko-kninska županija"
-D128611,AUTOELEKTRIKA ELEANOR J.D.O.O.,"CESTA DR. FRANJE TUĐMANA 406, 21213 KAŠTEL GOMILICA, Hrvatska",Delivery,False,43.549384730042,16.398687445185,matched,StreetAddress,99.51,"Cesta dr. Franje Tuđmana 406, 21214, Kaštel Gomilica, Kaštela, Splitsko-dalmatinska"
-D129529,VIZA PROJEKT D.O.O.,"MOSEĆKA 3, 21000 SPLIT, Hrvatska",Delivery,False,43.517750717475,16.466550033757,matched,PointAddress,100,"Mosećka 3, 21000, Split, Splitsko-dalmatinska županija"
-D103880,AUTO LABINKO,"SIČANE 2, 21232 DICMO, Hrvatska",Headquarters,False,43.658118110893,16.576567483021,review,StreetName,98.6,"Sičane, 21232, Dicmo, Splitsko-dalmatinska"
-D124096,AUTOSERVIS ČUPO,"HRVACE 571, 21233 HRVACE, Hrvatska",Headquarters,False,43.765404498681,16.619800764724,review,StreetName,96.25,"Hrvace, 21233, Hrvace, Splitsko-dalmatinska"
-D111375,PAKLENI OTOCI D.O.O.,"KOPILICA 47, 21000 SPLIT, Hrvatska",Delivery,False,43.525409555773,16.460467789537,matched,PointAddress,100,"Kopilica 47, 21000, Split, Splitsko-dalmatinska županija"
-MAT-019,AUTO MATAS,"Satrić 199, 21233 HRVACE, Hrvatska",Headquarters,False,43.778077002377,16.599283722713,review,StreetName,96.25,"Satrić, 21233, Hrvace, Splitsko-dalmatinska"
-D111525,ĐULA D.O.O.,"PUT UNČINA 8, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,False,43.541462666145,16.458603124069,matched,StreetAddress,100,"Put Unčina 8, 21212, Kaštela, Splitsko-dalmatinska"
-SAR-003,SARDINA D.D.,"POSTIRA BB, 21410 POSTIRA, Hrvatska",Headquarters,False,43.3755528,16.6268951,review,POI,100,Postira
-D134113,OBRT LIMITT,"STRANA I 84, 21238 OTOK (DALMACIJA), Hrvatska",Headquarters,False,43.696637043588,16.745599348445,matched,PointAddress,97.43,"Strana I 84, 21238, Otok, Splitsko-dalmatinska županija"
-D115745,AUTOSERVIS VRBAT,"SV.IVANA TROGIRSKOG 32A, 21220 TROGIR, Hrvatska",Headquarters,False,43.523686404118,16.247241644304,matched,PointAddress,100,"Sv. Ivana Trogirskog 32A, 21220, Trogir, Splitsko-dalmatinska županija"
-D104745,AUTO AKUSTIKA VARNICA D.O.O.,"PUT SVETOG LOVRE 27, 21215 KAŠTEL LUKŠIĆ, Hrvatska",Headquarters,False,43.556023213236,16.364611049865,review,StreetName,97.65,"Put svetog Lovre, 21214, Kaštel Lukšić, Kaštela, Splitsko-dalmatinska"
-D106613,DODIG GUMAX,"KOŠUTE 168 D, 21240 Trilj, Hrvatska",Delivery,False,43.619863278337,16.719459837492,review,StreetName,87.61,"Put Košuta, 21240, Trilj, Splitsko-dalmatinska"
-D131323,PELOTON D.O.O.,"ZRINSKO FRANKOPANSKA 58, 21000 SPLIT, Hrvatska",Delivery,False,43.52241113946,16.43352323977,matched,PointAddress,100,"Zrinjsko-Frankopanska 58, 21000, Split, Splitsko-dalmatinska županija"
-D108003,BOSNIĆ D.O.O.,"RAKITE 27, 21251 ŽRNOVNICA, Hrvatska",Headquarters,False,43.514613622573,16.539469238622,matched,PointAddress,98.33,"Rakite 27, 21312, Žrnovnica, Split, Splitsko-dalmatinska županija"
-D107786,EAST CARS SERVIS,"BRNIK 8, 21000 SPLIT, Hrvatska",Headquarters,False,43.514529510175,16.498688765102,matched,PointAddress,100,"Brnik 8, 21000, Split, Splitsko-dalmatinska županija"
-D119102,AUTOSERVIS KLARIĆ  OBRT,"PUT KOŠUTA 10, 21240 TRILJ, Hrvatska",Headquarters,False,43.621640677388,16.713049987663,matched,PointAddress,100,"Put Košuta 10, 21240, Trilj, Splitsko-dalmatinska županija"
-D123883,C.I.A.K. AUTO D.O.O.,"BRNAZE 176A, 21230 SINJ, Hrvatska",Delivery,False,43.69023347911,16.646918447989,matched,PointAddress,100,"Brnaze 176A, 21230, Brnaze, Sinj, Splitsko-dalmatinska županija"
-D126818,CHECK ENGINE J.D.O.O.,"DRAČEVAC 100, 21000 SPLIT, Hrvatska",Delivery,False,43.523337549308,16.505698634547,matched,PointAddress,100,"Dračevac 100, 21000, Split, Splitsko-dalmatinska županija"
-NAV-006,NAVIGATOR D.O.O.,"SPLITSKA22 (MARINA KREMIK), 22202 PRIMOŠTEN, Hrvatska",Delivery,False,43.570653434643,15.943777773503,matched,PointAddress,96.77,"Splitska 22, 22202, Primošten, Šibensko-kninska županija"
-D123354,MOTO BIT D.O.O.,"KRBAVSKA 18, 21000 SPLIT, Hrvatska",Headquarters,False,43.514054759179,16.47466463804,matched,PointAddress,100,"Krbavska 18, 21000, Split, Splitsko-dalmatinska županija"
-D133612,ADRIA SHIPPING MANAGEMENT D.O.O.,"CAJKOVSKOG 10, 21000 SPLIT, Hrvatska",Delivery,False,43.512148295302,16.436554219777,matched,PointAddress,98.31,"Čajkovskoga 10, 21000, Split, Splitsko-dalmatinska županija"
-D110273,DIZEL SERVIS-BOŠNJAK d.o.o.,"DON FRANE BULIĆA 171, 21210 SOLIN, Hrvatska",Delivery,False,43.544763286386,16.465374304198,matched,PointAddress,100,"Don Frane Bulića 171, 21210, Solin, Splitsko-dalmatinska županija"
-MAT-011,AUTOSERVIS MATAS,"HRVACE 573, 21233 HRVACE, Hrvatska",Delivery,False,43.772178778319,16.608325483561,matched,PointAddress,100,"Hrvace 573, 21233, Hrvace, Splitsko-dalmatinska županija"
-D103190,AUTO DAVOR D.O.O.,"HERCEGOVAČKA 74, 21000 SPLIT, Hrvatska",Headquarters,False,43.521637825073,16.469168121214,matched,PointAddress,100,"Hercegovačka 74, 21000, Split, Splitsko-dalmatinska županija"
-LAG-003,LAGUNA TRADE D.O.O.,"UVALA SOLINE 1, 22203 ROGOZNICA, Hrvatska",Delivery,False,43.531986332281,15.960941480454,matched,PointAddress,100,"Uvala Soline 1, 22203, Rogoznica, Šibensko-kninska županija"
-D103952,DVD BOL,"HRVATSKIH DOMOBRANA 3, 21420 BOL, Hrvatska",Headquarters,False,43.262008122756,16.64727509797,matched,PointAddress,100,"Hrvatskih domobrana 3, 21420, Bol, Splitsko-dalmatinska županija"
-D102723,T.T. MEHANIKA,"KAMENA 31, 21251 ŽRNOVNICA, Hrvatska",Headquarters,True,43.521009894796,16.544099401936,matched,PointAddress,98.33,"Kamena 31, 21312, Žrnovnica, Split, Splitsko-dalmatinska županija"
-D134885,AUTO SERVIS SALONA,"DON FRANE BULIĆA 58, 21210 SOLIN, Hrvatska",Delivery,False,43.543273319278,16.480411689952,matched,PointAddress,100,"Don Frane Bulića 58, 21210, Solin, Splitsko-dalmatinska županija"
-D100269,AUTOSERVIS GRČIĆ,"ULICA FILIPA GRABOVCA 98, 21230 SINJ, Hrvatska",Headquarters,False,43.716073755043,16.6431881658,matched,PointAddress,100,"Ulica Filipa Grabovca 98, 21230, Sinj, Splitsko-dalmatinska županija"
-IVA-016,FORD AUTO IVAN,"ZRINSKO-FRANKOPANSKA 157, 21000 SPLIT, Hrvatska",Headquarters,False,43.522228916885,16.433066342228,matched,PointAddress,100,"Zrinjsko-Frankopanska 157, 21000, Split, Splitsko-dalmatinska županija"
-D100552,Autolimarski obrt ŠIMAC,"GAJEVA BB, 21209 MRAVINCE, Hrvatska",Headquarters,False,43.532559031413,16.516435494743,review,StreetName,88.31,"Gajeva ulica, 21210, Mravince, Solin, Splitsko-dalmatinska"
-D103091,AUTO TIM PISAČIĆ D.O.O.,"GENERALA ZADRE 1, 21000 SPLIT, Hrvatska",Delivery,False,43.515224956682,16.490744061997,matched,PointAddress,99.78,"Generala Blage Zadre 1, 21000, Split, Splitsko-dalmatinska županija"
-PAV-010,AUTO CENTAR PAVEŠKOVIĆ d.o.o.,"BETANIJA 1, 21220 TROGIR, Hrvatska",Headquarters,False,43.518300947509,16.241945622602,matched,PointAddress,100,"Betanija 1, 21220, Trogir, Splitsko-dalmatinska županija"
-DVD-004,DVD SUPETAR,"PUT VELE LUKE BB, 21400 SUPETAR, Hrvatska",Headquarters,False,43.385316465637,16.548065914711,review,StreetName,100,"Put Vele Luke, 21400, Supetar, Splitsko-dalmatinska"
-TER-015,TERRA JASKA d.o.o.,"PJ SPLIT, 21204 DUGOPOLJE, Hrvatska",Delivery,False,43.5612922,16.5233675,review,Postal,90.34,"21204, Klis, Splitsko-dalmatinska"
-JUK-004,AUTO-JUKIĆ D.O.O.,"BRNAZE 68, 21234 BRNAZE, Hrvatska",Headquarters,False,43.692827342866,16.643374411689,matched,PointAddress,98.15,"Brnaze 68, 21230, Brnaze, Sinj, Splitsko-dalmatinska županija"
-D103419,PAVKOVIĆ,"PUT K.TOMISLAVA 86, 21218 SEGET DONJI, Hrvatska",Headquarters,False,43.513916290139,16.192995810971,matched,PointAddress,98.95,"Kralja Tomislava 86, 21218, Seget Vranjica, Seget, Splitsko-dalmatinska županija"
-D107667,MIKROSIVERIT-ZA DOM D.O.O.,"KRALJA ZVONIMIRA 29, 22320 DRNIŠ, Hrvatska",Headquarters,False,43.861401874507,16.154016273168,matched,PointAddress,100,"Kralja Zvonimira 29, 22320, Drniš, Šibensko-kninska županija"
-D128052,KRSTUL D.O.O.,"SV. LEOPOLDA MANDIĆA 29, 21204 DUGOPOLJE, Hrvatska",Delivery,False,43.590099299647,16.572841216388,review,StreetName,95.86,"Ulica svetog Leopolda Mandića, 21204, Dugopolje, Splitsko-dalmatinska"
-D109371,PROMET SINJ D.O.O.,"STJEPANA IVIČEVIĆA 60, 21300 MAKARSKA, Hrvatska",Delivery,False,43.285753258171,17.028787227827,matched,PointAddress,100,"Stjepana Ivičevića 60, 21300, Makarska, Splitsko-dalmatinska županija"
-D101657,"U.O.MIKI,VL.MARIČIĆ ANTE","PUT PAŠIKA 13, 21400 SUPETAR, Hrvatska",Headquarters,False,43.383326364394,16.548441395419,matched,PointAddress,100,"Put Pašika 13, 21400, Supetar, Splitsko-dalmatinska županija"
-D109358,AUTO SERVIS BIOČINA,"PUT KRIŽA 15, 21400 SUPETAR, Hrvatska",Headquarters,False,43.380260264212,16.559897529222,matched,PointAddress,100,"Put Križa 15, 21400, Supetar, Splitsko-dalmatinska županija"
-D122139,ELMAN,"PUT BORIKA 17, Šine, 21000 SPLIT, Hrvatska",Headquarters,False,43.510151851694,16.52536140593,matched,PointAddress,98.79,"Put Borika 17, 21000, Split, Splitsko-dalmatinska županija"
-JOZ-001,JOZIĆ GUMING - VULKANIZER vl.,"PRISOJE BB, 21232 PRISOJE, Hrvatska",Headquarters,False,43.630734823076,16.606014492167,review,StreetName,100,"Prisoje, 21232, Prisoje, Dicmo, Splitsko-dalmatinska"
-D111857,SIGNALIZACIJA HR D.O.O.,"PUT DRAČANICE 8, 21204 Dugopolje, Hrvatska",Delivery,False,43.590863971868,16.586604478673,matched,StreetAddress,100,"Put Dračanice 8, 21204, Dugopolje, Splitsko-dalmatinska"
-JEN-002,"AUTO JENJIĆ,","GLAVICE 112, 21230 SINJ, Hrvatska",Headquarters,False,43.704592647536,16.661584563615,matched,StreetAddress,100,"Glavice 112, 21230, Sinj, Splitsko-dalmatinska"
-D103350,"AUTO SERVIS VW-AUDI,zajednički obrt","I. Pavla II 87, 21214 KAŠTEL KAMBELOVAC, Hrvatska",Headquarters,False,43.5539997,16.3655,review,Postal,89.74,"21214, Kaštel Lukšić, Splitsko-dalmatinska"
-D129892,TECH-CAR d.o.o.,"PUT KAVE 4, 21212 KAŠTEL SUĆURAC, Hrvatska",Delivery,False,43.551865244097,16.455483165593,review,StreetName,98.97,"Put Kave, 21212, Kaštela, Splitsko-dalmatinska"
-D131393,GARAŽA PREKO PUTA J.D.O.O.,"IVANA PAVLA II 235, 21216 KAŠTEL STARI, Hrvatska",Delivery,False,43.558584164623,16.345335392442,matched,PointAddress,99.02,"Cesta Pape Ivana Pavla II. 235, 21216, Kaštel Stari, Kaštela, Splitsko-dalmatinska županija"
-D126278,WAGEN SERVIS TEAM,"CESTA DR. FRANJE TUĐMANA 1090, 21217 KAŠTEL ŠTAFILIĆ, Hrvatska",Headquarters,False,43.548788527748,16.324978431838,matched,PointAddress,97.21,"Cesta Dr. Franje Tuđmana 1090, 21216, Kaštel Novi, Kaštela, Splitsko-dalmatinska županija"
-ADR-001,ADRIATIC INDUSTRIAL,"PUT DRAGULILA 15, 21220 TROGIR, Hrvatska",Headquarters,False,43.52087104857,16.246507724862,matched,PointAddress,97.87,"Put Dragulina 15, 21220, Trogir, Splitsko-dalmatinska županija"
-D107019,TASLAK TRADE D.O.O.,"OREŠAC BB, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,False,43.5471746,16.4267704,review,Postal,92.94,"21212, Kaštel Sućurac, Splitsko-dalmatinska"
-D122827,OBRT ZA PRIJEVOZ KICA,"JADRANSKA 17A, 21400 SUPETAR, Hrvatska",Headquarters,False,43.382295390303,16.559513638057,matched,PointAddress,100,"Jadranska 17A, 21400, Supetar, Splitsko-dalmatinska županija"
-D127753,BUCO BRAČ 1977,"KOPILICA 25B, 21000 SPLIT, Hrvatska",Headquarters,False,43.524541022966,16.454979570794,matched,PointAddress,100,"Kopilica 25B, 21000, Split, Splitsko-dalmatinska županija"
-BID-002,BID D.O.O.,"MOSTARSKA  2, 21000 SPLIT, Hrvatska",Delivery,False,43.522145977953,16.463538332127,matched,PointAddress,100,"Mostarska 2, 21000, Split, Splitsko-dalmatinska županija"
-SLI-003,AUTOSLIV d.o.o.,"Put Tršćenice 8, 21000 Split, Hrvatska",Delivery,False,43.511894239817,16.487100616324,matched,PointAddress,100,"Put Trščenice 8, 21000, Split, Splitsko-dalmatinska županija"
-D110276,AUTO-COM,"OBROVAC SINJSKI 98B, 21241 OBROVAC SINJSKI, Hrvatska",Headquarters,False,43.736399199691,16.682581937258,matched,PointAddress,100,"Obrovac Sinjski 98B, 21241, Obrovac Sinjski, Sinj, Splitsko-dalmatinska županija"
-D103800,AMIŽIĆ D.O.O.,"MOSORSKA 63, 21251 ŽRNOVNICA, Hrvatska",Headquarters,False,43.519840619303,16.531196216369,matched,PointAddress,98.44,"Mosorska 63, 21312, Žrnovnica, Split, Splitsko-dalmatinska županija"
-D134617,GUSTIN PERFORMANCE J.D.O.O.,"STINICE 1B, 21000 SPLIT, Hrvatska",Delivery,False,43.522340438106,16.448211603075,matched,PointAddress,100,"Stinice 1B, 21000, Split, Splitsko-dalmatinska županija"
-D123130,"AUTO,AUTOMEHANIČARSKI OBRT","NEREŽIŠĆA BB, 21423 NEREŽIŠĆA, Hrvatska",Delivery,False,43.264895098403,16.605961591795,review,StreetName,98.67,"Nerežišća, 21420, Nerežišća, Splitsko-dalmatinska"
-D103523,AUTOMEHANIČARSKI OBRT STEPINAC,"SVETOG IVANA 9, 21251 DONJE SITNO, Hrvatska",Headquarters,False,43.501546277432,16.602666693089,matched,PointAddress,98.57,"Sv. Ivana 9, 21312, Donje Sitno, Split, Splitsko-dalmatinska županija"
-D115734,"PERKOVIĆ ,OBRT ZA USLUGE","KARLOVO 74, 21214 KAŠTEL KAMBELOVAC, Hrvatska",Headquarters,False,43.554942585067,16.382568966423,matched,StreetAddress,100,"Karlovo 74, 21214, Kaštel Kambelovac, Kaštela, Splitsko-dalmatinska"
-D131375,POLJOMAR MARINE D.O.O.,"BLEIBURŠKIH ŽRTAVA 10, 21204 DUGOPOLJE, Hrvatska",Delivery,False,43.596983685314,16.579925358421,matched,StreetAddress,99.02,"Ulica Bleiburških žrtava 10, 21204, Dugopolje, Splitsko-dalmatinska"
-D103135,POLJOMAR D.O.O.,"ULICA BLEIBURŠKIH ŽRTAVA 10, 21204 DUGOPOLJE, Hrvatska",Delivery,False,43.596983685314,16.579925358421,matched,StreetAddress,100,"Ulica Bleiburških žrtava 10, 21204, Dugopolje, Splitsko-dalmatinska"
-D133841,NAKIĆ-ALFIREVIĆ D.O.O.,"STUDINOVA 5, 21000 SPLIT, Hrvatska",Delivery,False,43.515006775742,16.471956612762,matched,PointAddress,100,"Studinova 5, 21000, Split, Splitsko-dalmatinska županija"
-D122739,EGO TIBI J.D.O.O.,"BRNAZE 464, 21230 SINJ, Hrvatska",Headquarters,False,43.675494572928,16.651299501141,matched,PointAddress,100,"Brnaze 464, 21230, Brnaze, Sinj, Splitsko-dalmatinska županija"
-PIC-004,PICOTRANS D.O.O.,"BRNAZE 176, 21230 SINJ, Hrvatska",Delivery,False,43.690478104954,16.647337040234,matched,PointAddress,100,"Brnaze 176, 21230, Brnaze, Sinj, Splitsko-dalmatinska županija"
-D103838,HAK-AUTO KLUB SPLIT,"Hrvatske mornarice 14, 21000 SPLIT, Hrvatska",Headquarters,False,43.518744308277,16.438074613194,matched,PointAddress,100,"Hrv. mornarice 14, 21000, Split, Splitsko-dalmatinska županija"
-AUT-011,IVO ĆURIĆ,"PAŠTRIĆEVA  12, 21000 S P L I T, Hrvatska",Headquarters,False,43.51298128884,16.479271080568,matched,PointAddress,98.33,"Paštrićeva 12, 21000, Split, Splitsko-dalmatinska županija"
-D119867,MARINE DIAGNOSTICS D.O.O,"POLJIČKE KNEŽEVINE 39, 21292 SRINJINE, Hrvatska",Headquarters,True,43.488564511523,16.603380328325,matched,PointAddress,100,"Poljičke kneževine 39, 21292, Srinjine, Split, Splitsko-dalmatinska županija"
-D107236,YACHT4YOU D.O.O.,"OBALA KRALJA TOMISLAVA 11A, 21213 KAŠTEL GOMILICA, Hrvatska",Delivery,False,43.548575501679,16.388037081989,matched,PointAddress,96.52,"Obala Kralja Tomislava 11, 21214, Kaštel Kambelovac, Kaštela, Splitsko-dalmatinska županija"
-ANT-017,AUTOSERVIS ANTE VL. RUŽIČIĆ AN,"KNEZA TRPIMIRA 26, 21220 TROGIR, Hrvatska",Delivery,False,43.519570051469,16.256669776634,matched,PointAddress,100,"Kneza Trpimira 26, 21220, Trogir, Splitsko-dalmatinska županija"
-VIM-001,VIMA D.O.O.,"BENKOVAČKA ULICA 3, 21000 SPLIT, Hrvatska",Headquarters,False,43.518056615031,16.45962515681,matched,PointAddress,100,"Ulica Benkovačka 3, 21000, Split, Splitsko-dalmatinska županija"
-D130134,FORNIX D.O.O.,"INDUSTRIJSKI PUT 6, 21315 DUGI RAT, Hrvatska",Headquarters,False,43.441140541547,16.645522525835,matched,PointAddress,100,"Industrijski Put 6, 21315, Dugi Rat, Splitsko-dalmatinska županija"
-D107907,U.O. AUTO MUŽINIĆ,"ANTE STARČEVIĆA 153, 21251 ŽRNOVNICA, Hrvatska",Delivery,False,43.524811381253,16.534368934359,matched,PointAddress,94.32,"Starčevićeva 153, 21312, Žrnovnica, Split, Splitsko-dalmatinska županija"
-D124030,AUTOSERVIS A JE TO,"CESTA IVANA PAVLA II 335, 21217 KAŠTEL ŠTAFILIĆ, Hrvatska",Delivery,False,43.546966050541,16.299384290492,matched,PointAddress,100,"Cesta Pape Ivana Pavla II. 335, 21217, Kaštel Štafilić, Kaštela, Splitsko-dalmatinska županija"
-IVE-002,IVE COMMERCE d.o.o.,"PUT BLATA 60, 21216 KAŠTEL STARI, Hrvatska",Headquarters,False,43.55440647171,16.340241630634,matched,StreetAddress,99.51,"Put Blata 60, 21217, Kaštel Stari, Kaštela, Splitsko-dalmatinska"
-MAT-029,"MATIĆ PROM,VL.OBRTA ANTE MATIĆ","FILIPA GRABOVCA 43, 21230 SINJ, Hrvatska",Headquarters,False,43.709552760101,16.640308562964,matched,PointAddress,100,"Filipa Grabovca 43, 21230, Sinj, Splitsko-dalmatinska županija"
-D124219,BETONARA GIZDIĆ,"UL. KNEZA TRPIMIRA 197, 21231 KLIS, Hrvatska",Delivery,False,43.556538051182,16.50608268213,matched,StreetAddress,99.02,"Ulica Kneza Trpimira 197, 21204, Klis, Splitsko-dalmatinska"
-D111172,QUATTRO-TECH D.O.O.,"PUT DRAGOCEVA 8, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,False,43.551739628218,16.422797924105,matched,PointAddress,100,"Put Dragočeva 8, 21212, Kaštel Sućurac, Kaštela, Splitsko-dalmatinska županija"
-D109301,DVD MLADOST,"PUTALJSKI PUT 58, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,False,43.547641802347,16.426652381113,matched,StreetAddress,100,"Putaljski put 58, 21212, Kaštel Sućurac, Kaštela, Splitsko-dalmatinska"
-D126742,BETON-HRVACE D.O.O.,"HRVACE 564, 21233 HRVACE, Hrvatska",Headquarters,False,43.760737354756,16.595400588864,matched,PointAddress,100,"Hrvace 564, 21233, Hrvace, Splitsko-dalmatinska županija"
-D127782,SPARK,"BRNAZE 447A, 21230 SINJ, Hrvatska",Headquarters,False,43.676628267242,16.649050636519,matched,PointAddress,100,"Brnaze 447A, 21230, Brnaze, Sinj, Splitsko-dalmatinska županija"
-D131376,KUM D.O.O.,"142. BRIGADE 31, 22321 SIVERIĆ, Hrvatska",Delivery,False,43.870237322464,16.193479614422,matched,PointAddress,100,"142. Brigade 31, 22321, Siverić, Drniš, Šibensko-kninska županija"
-D133019,ŠIŠKO OBRT,"PUT PIKETA 136, 21230 SINJ, Hrvatska",Delivery,False,43.697365682431,16.659641841734,matched,PointAddress,100,"Put Piketa 136, 21230, Sinj, Splitsko-dalmatinska županija"
-D123503,DIVING SUPPORT MARINKOVIČ,"DOSICINA III/14, 21405 MILNA, Hrvatska",Delivery,False,43.330056938962,16.44818696028,matched,PointAddress,100,"Dosicina III 14, 21405, Milna, Splitsko-dalmatinska županija"
-D101459,"AUTOPALACE-AUTOMAX,","F.TUĐMANA 107, 21216 KAŠTEL STARI, Hrvatska",Headquarters,False,43.549949400383,16.333109255104,review,StreetName,92.37,"D.F. Tuđmana, 21217, Kaštel Štafilić, Kaštela, Splitsko-dalmatinska"
-ELE-021,FRIGO PIVČEVIĆ VL. PIVČEVIĆ M.,"PUT PAZIGRADA 14, 21000 SPLIT, Hrvatska",Headquarters,True,43.506839323559,16.491970334431,matched,PointAddress,98.12,"Put Pazdigrada 14, 21000, Split, Splitsko-dalmatinska županija"
-D129893,MANAS D.O.O.,"SOLINSKA 52, 21000 SPLIT, Hrvatska",Delivery,False,43.525081655721,16.475665604917,matched,PointAddress,100,"Solinska 52, 21000, Split, Splitsko-dalmatinska županija"
-D106714,RAPIDUS D.O.O.,"Kraj 155, 21232 Dicmo, Hrvatska",Delivery,False,43.63865404532,16.571864224581,matched,StreetAddress,100,"Kraj 155, 21232, Dicmo, Splitsko-dalmatinska"
-D133161,OBRT ŠTEF,"HRVACE 16, 21233 HRVACE, Hrvatska",Headquarters,False,43.765404498681,16.619800764724,review,StreetName,97.41,"Hrvace, 21233, Hrvace, Splitsko-dalmatinska"
-D109782,PRIME YACHTING J.D.O.O.,"CESTA DR. FRANJE TUĐMANA 197, 21212 KAŠTEL SUĆURAC, Hrvatska",Delivery,False,43.547674534364,16.426768293823,review,StreetName,97.86,"Cesta dr. Franje Tuđmana, 21212, Kaštel Sućurac, Kaštela, Splitsko-dalmatinska"
-D122269,AUTO ĐAFER,"PRAŽNICA 53 A, 21424 PRAŽNICA, Hrvatska",Headquarters,False,43.318854860644,16.699305259017,matched,PointAddress,99.99,"Pražnica 53A, 21424, Pražnica, Pučišća, Splitsko-dalmatinska županija"
-D113449,UNDER HEAVEN D.O.O.,"SPLITSKA 22-24, 22202 PRIMOŠTEN, Hrvatska",Delivery,False,43.570653434643,15.943777773503,matched,PointAddress,99.41,"Splitska 22, 22202, Primošten, Šibensko-kninska županija"
-D103664,KOTARAC SISTEMI D.O.O.,"BRNAZE 410, 21230 SINJ, Hrvatska",Delivery,False,43.684595894853,16.652035767516,matched,PointAddress,100,"Brnaze 410, 21230, Brnaze, Sinj, Splitsko-dalmatinska županija"
-D123837,SUSTAVI JANKOVIĆ,"HRVACE 73, 21233 HRVACE, Hrvatska",Headquarters,False,43.765404498681,16.619800764724,review,StreetName,97.41,"Hrvace, 21233, Hrvace, Splitsko-dalmatinska"
-D105290,AUTO CENTAR KNEZOVIĆ D.O.O.,"JOSIPA JOVICA 151, 21000 SPLIT, Hrvatska",Delivery,False,43.51728024125,16.485488021972,matched,PointAddress,100,"Josipa Jovića 151, 21000, Split, Splitsko-dalmatinska županija"
-D104497,MORSKA PTICA,"HOTEL ZORA, 22202 PRIMOŠTEN, Hrvatska",Delivery,False,43.5899756,15.9193298,review,POI,100,Hotel Zora
-D105185,AUTO BILOBRK,"OBROVAC SINJSKI 67B, 21241 OBROVAC SINJSKI, Hrvatska",Delivery,False,43.742870028942,16.689901937121,matched,PointAddress,100,"Obrovac Sinjski 67B, 21241, Obrovac Sinjski, Sinj, Splitsko-dalmatinska županija"
-COM-006,COMA C.A.R. d.o.o.,"IVICA IVANCIC - 0915018922, 21000 SPLIT, Hrvatska",Delivery,False,43.5070329,16.4422965,review,Postal,80,"21000, Split, Splitsko-dalmatinska"
-D130820,AUTO BOLDOVIĆ,"DON NIKOLE MILIČEVIĆA 1, 21423 NEREŽIŠĆA, Hrvatska",Headquarters,False,43.331735163616,16.576016012847,matched,PointAddress,100,"Don Nikole Miličevića 1, 21423, Nerežišća, Splitsko-dalmatinska županija"
-LUC-001,LUCKY  d.o.o.,"MATOŠEVA  34, 21210 SOLIN, Hrvatska",Headquarters,False,43.530577292447,16.496666882418,matched,PointAddress,100,"Matoševa 34, 21210, Solin, Splitsko-dalmatinska županija"
-D110001,FRANE AUTOELEKT. OBRT,"GOSPE KARMELSKE 34, 21425 SELCA, Hrvatska",Headquarters,False,43.293668163611,16.850408090675,matched,PointAddress,100,"Gospe karmelske 34, 21425, Selca, Splitsko-dalmatinska županija"
-D129170,ŠPERANDA D.O.O.,"Ljubuška 10, 21000 SPLIT, Hrvatska",Headquarters,False,43.523126325348,16.478915352597,matched,PointAddress,100,"Ljubuška 10, 21000, Split, Splitsko-dalmatinska županija"
-D129648,KOBRA-KOP,"KRČ DOLAC GRUJINI 18, 22202 PRIMOŠTEN, Hrvatska",Headquarters,False,43.575391347322,15.982821516685,matched,PointAddress,99,"Krč dolac Grujini 18, 22204, Vadalj, Primošten, Šibensko-kninska županija"
-D129380,SALONČIĆ BOMBONČIĆ D.O.O.,"VUKOVARSKA 52A, 21000 SPLIT, Hrvatska",Delivery,False,43.510845160815,16.452799437778,matched,PointAddress,99.18,"Vukovarska 52, 21000, Split, Splitsko-dalmatinska županija"
-D126204,ŽERA D.O.O.,"OBROVAC SINJSKI 82, 21241 OBROVAC SINJSKI, Hrvatska",Headquarters,False,43.738103533973,16.6850281957,matched,PointAddress,100,"Obrovac Sinjski 82, 21241, Obrovac Sinjski, Sinj, Splitsko-dalmatinska županija"
-D111782,RAVLIĆ MARIO,"IMOTSKA 25, 21311 STOBREČ, Hrvatska",Headquarters,False,43.502386395588,16.523616042232,matched,PointAddress,100,"Imotska 25, 21311, Stobreč, Split, Splitsko-dalmatinska županija"
-D124532,ARTUM TEMPUS D.O.O.,"RUĐERA BOŠKOVIĆA 7, 21000 SPLIT, Hrvatska",Delivery,False,43.505982818783,16.465540936433,matched,PointAddress,100,"R. Boškovića 7, 21000, Split, Splitsko-dalmatinska županija"
-D127227,JAKI MARINE SERVICE,"POLJIČKA CESTA 37, 21222 MARINA, Hrvatska",Headquarters,False,43.517381704188,16.12794704555,matched,PointAddress,100,"Poljička Cesta 37, 21222, Poljica, Marina, Splitsko-dalmatinska županija"
-D119949,PANDUR,"ULICA SV.LUKE 3A, 21238 OTOK (DALMACIJA), Hrvatska",Headquarters,False,43.688059381064,16.731346592648,matched,PointAddress,97.69,"Ulica Sv. Luke 3a, 21238, Otok, Splitsko-dalmatinska županija"
-D117848,AUTO VITIĆ 77 J.D.O.O.,"OBROVAC SINJSKI 203B, 21241 OBROVAC SINJSKI, Hrvatska",Headquarters,False,43.733136124785,16.694397654708,matched,PointAddress,100,"Obrovac Sinjski 203B, 21241, Obrovac Sinjski, Sinj, Splitsko-dalmatinska županija"
-D108572,VERITAS ESCO D.O.O.,"MEJAŠI 2, 21000 SPLIT, Hrvatska",Headquarters,False,43.51761266753,16.486853350181,matched,PointAddress,100,"Mejaši 2, 21000, Split, Splitsko-dalmatinska županija"
-D124240,FRAMAC OBRT ZA USLUGE,"PUT GLAVICE 28, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,False,43.548699763393,16.429666558481,matched,PointAddress,100,"Put Glavice 28, 21212, Kaštel Sućurac, Kaštela, Splitsko-dalmatinska županija"
-D131336,BENBELLO OBRT ZA SERVIS,"ŽALO 27, 21405 MILNA, Hrvatska",Headquarters,False,43.328729035952,16.448265917808,matched,PointAddress,100,"Žalo 27, 21405, Milna, Splitsko-dalmatinska županija"
-D133020,PAIĆ TOURS DICMO-PUTNIČKA,"OSOJE 35, 21232 DICMO, Hrvatska",Delivery,False,43.617862672837,16.590339917095,matched,StreetAddress,100,"Osoje 35, 21232, Osoje, Dicmo, Splitsko-dalmatinska"
-D129863,ORVAS D.O.O.,"LEOPOLDA MANDIĆA 10, 21204 DUGOPOLJE, Hrvatska",Headquarters,False,43.589838720191,16.572414733438,matched,StreetAddress,98.84,"Ulica svetog Leopolda Mandića 10, 21204, Dugopolje, Splitsko-dalmatinska"
-D123362,GUSTIN D.O.O.,"STINICE 1B, 21000 SPLIT, Hrvatska",Delivery,False,43.522340438106,16.448211603075,matched,PointAddress,100,"Stinice 1B, 21000, Split, Splitsko-dalmatinska županija"
-TOR-006,TORNADO d.o.o.,"PUT DUJA 16, 21000 SPLIT, Hrvatska",Delivery,False,43.523484945075,16.461337328172,matched,PointAddress,100,"Put Duja 16, 21000, Split, Splitsko-dalmatinska županija"
-D129723,MARINA KREMIK D.O.O.,"SPLITSKA 24, 22202 PRIMOŠTEN, Hrvatska",Headquarters,False,43.571794798398,15.940878808471,matched,PointAddress,100,"Splitska 24, 22202, Primošten, Šibensko-kninska županija"
-JUR-016,JURIŠIĆ AUTO VL. JURIŠIĆ MARIN,"KROZ SMRDEČAC 33 A, 21000 SPLIT, Hrvatska",Headquarters,False,43.509405862312,16.473009882715,matched,PointAddress,99.99,"Kroz Smrdečac 33A, 21000, Split, Splitsko-dalmatinska županija"
-D131444,ŽENINA MESNICA,"GOSPE U SITI 14, 21312 PODSTRANA, Hrvatska",Headquarters,False,43.503360749922,16.535335619252,matched,PointAddress,100,"Gospe u Siti 14, 21312, Sita, Podstrana, Splitsko-dalmatinska županija"
-MNA-001,M & N AUTOMEH. TRG. OBRT,"GENERALA BLAGE ZADRA 1, 21000 SPLIT, Hrvatska",Headquarters,False,43.515224956682,16.490744061997,matched,PointAddress,98.8,"Generala Blage Zadre 1, 21000, Split, Splitsko-dalmatinska županija"
-D106293,FOR-DENTAL,"VISOKA 7, 21000 Split, Hrvatska",Delivery,False,43.511617343645,16.475109800918,matched,PointAddress,100,"Visoka 7, 21000, Split, Splitsko-dalmatinska županija"
-D127276,AUTOSERVIS LIMENI J.D.O.O.,"KOPILICA 5, 21000 SPLIT, Hrvatska",Delivery,False,43.523174186015,16.450703207613,matched,PointAddress,100,"Kopilica 5, 21000, Split, Splitsko-dalmatinska županija"
-D115775,VILIČAR D.O.O.,"MOSTARSKA 2, 21000 SPLIT, Hrvatska",Headquarters,False,43.522145977953,16.463538332127,matched,PointAddress,100,"Mostarska 2, 21000, Split, Splitsko-dalmatinska županija"
-D111947,D&D PLOVILA D.O.O.,"DR.FRANJE TUĐMANA 213, 21212 KAŠTEL GOMILICA, Hrvatska",Delivery,False,43.547114745503,16.403790198455,matched,PointAddress,96.55,"Cesta Dr. Franje Tuđmana 213, 21213, Kaštel Gomilica, Kaštela, Splitsko-dalmatinska županija"
-D125748,EDISON,"DON JOZE ČULINE 15, 21204 DUGOPOLJE, Hrvatska",Headquarters,False,43.584815237061,16.594175064177,matched,StreetAddress,98.25,"Ulica don Joze Čulina 15, 21204, Dugopolje, Splitsko-dalmatinska"
-D119769,INCLUDE D.O.O,"SOLINSKA 52, 21000 SPLIT, Hrvatska",Delivery,False,43.525081655721,16.475665604917,matched,PointAddress,100,"Solinska 52, 21000, Split, Splitsko-dalmatinska županija"
-D115636,JEDRENJE CHARTER SERVIS D.O.O.,"OBALA KRALJA TOMISLAVA 11A, 21213 KAŠTEL GOMILICA, Hrvatska",Delivery,False,43.548575501679,16.388037081989,matched,PointAddress,96.52,"Obala Kralja Tomislava 11, 21214, Kaštel Kambelovac, Kaštela, Splitsko-dalmatinska županija"
-D125937,STORM CHARTER D.O.O.,"PUT BRODOGRADITELJA 7, 21220 TROGIR, Hrvatska",Headquarters,False,43.512764784281,16.248580569517,matched,PointAddress,100,"Put Brodograditelja 7, 21220, Trogir, Splitsko-dalmatinska županija"
-D119014,YELLOW NAUTIC D.O.O.,"MARINA GETALDIĆA 5, 21000 SPLIT, Hrvatska",Headquarters,False,42.641337182757,18.107880756829,matched,StreetAddress,97.17,"Marina Getaldića 5, 20000, Dubrovnik, Dubrovačko-neretvanska"
-D105715,DVD SLATINE,"PUT DUBOKE GARME 2, 21224 SLATINE, Hrvatska",Headquarters,False,43.499721453292,16.332735967046,matched,PointAddress,98.41,"Ulica Duboke garme 2, 21224, Slatine, Split, Splitsko-dalmatinska županija"
-D126071,BRAVAR MARIO,"CESTA DR FRANJE TUĐMANA 344, 21212 KAŠTEL SUĆURAC, Hrvatska",Delivery,False,43.548014584718,16.41333039683,matched,PointAddress,100,"Cesta Dr. Franje Tuđmana 344, 21212, Kaštel Sućurac, Kaštela, Splitsko-dalmatinska županija"
-D109583,RABBIT J.D.O.O.,"POLJUDSKO ŠETALIŠTE bb, 21000 Split, Hrvatska",Delivery,False,43.521749259343,16.429023128693,review,StreetName,100,"Poljudsko šetalište, 21000, Split, Splitsko-dalmatinska"
-D113014,CAR GARAGE D.O.O.,"DOMOVINSKOG RATA 115A, 21312 PODSTRANA, Hrvatska",Headquarters,False,43.50166764739,16.544631904245,matched,PointAddress,100,"Domovinskog rata 115a, 21312, Sita, Podstrana, Splitsko-dalmatinska županija"
-D125486,TAXI GRINGO,"BARTOLA KAŠIĆA 12, 21000 SPLIT, Hrvatska",Headquarters,False,43.505757175204,16.429130532601,matched,StreetAddress,100,"Bartola Kašića 12, 21000, Split, Splitsko-dalmatinska"
-D108016,HYDROCAR D.O.O.,"PUT KAVE 4, 21212 KAŠTEL SUĆURAC, Hrvatska",Delivery,False,43.551865244097,16.455483165593,review,StreetName,98.97,"Put Kave, 21212, Kaštela, Splitsko-dalmatinska"
-MOT-004,MOTORSPORT D.O.O.,"KNEZA TRPIMIRA 161, 21210 SOLIN, Hrvatska",Delivery,False,43.560274543036,16.497776897856,matched,PointAddress,100,"Kneza Trpimira 161, 21210, Solin, Splitsko-dalmatinska županija"
-ANT-015,AUTOSERVIS-ANTE,"FRANJE TUĐMANA 929, 21216 KAŠTEL ŠTAFILIĆ, Hrvatska",Headquarters,False,43.546086369802,16.318559318929,matched,PointAddress,97.76,"Cesta Dr. Franje Tuđmana 929, 21217, Kaštel Štafilić, Kaštela, Splitsko-dalmatinska županija"
-D123585,APRICUM D.O.O.,"KOPILICA 47B, 21000 SPLIT, Hrvatska",Delivery,False,43.525372759218,16.460974727041,matched,PointAddress,100,"Kopilica 47B, 21000, Split, Splitsko-dalmatinska županija"
-D110867,MOTO FUTURA d.o.o.,"Poljička cesta 76, 21000 Split, Hrvatska",Delivery,False,43.50738496247,16.469762976789,review,StreetName,97.88,"Poljička cesta, 21000, Split, Splitsko-dalmatinska"
-D127682,BZ PORTUS SALONA,"ALOJZIJA STEPINCA 18b, 21210 SOLIN, Hrvatska",Headquarters,False,43.533792925781,16.503331333633,matched,PointAddress,100,"Alojzija Stepinca 18B, 21210, Solin, Splitsko-dalmatinska županija"
-D114729,SOUND OF THE SEA D.O.O.,"091 1970 077, 21000 SPLIT, Hrvatska",Delivery,False,43.5070329,16.4422965,review,Postal,85.71,"21000, Split, Splitsko-dalmatinska"
-D127284,ROYAL M,"KRAJ 119, 21232 DICMO, Hrvatska",Headquarters,False,43.637755440654,16.581045324814,matched,StreetAddress,100,"Kraj 119, 21232, Kraj, Dicmo, Splitsko-dalmatinska"
-D127303,AUTOSERVIS BAGY,"PUT RUDUŠE 50, 21230 SINJ, Hrvatska",Headquarters,False,43.701089803922,16.628125801975,matched,PointAddress,100,"Put Ruduše 50, 21230, Sinj, Splitsko-dalmatinska županija"
-D114510,VRBAT Z,"SV.IVANA TROGIRSKOG 32A, 21220 TROGIR, Hrvatska",Headquarters,False,43.523686404118,16.247241644304,matched,PointAddress,100,"Sv. Ivana Trogirskog 32A, 21220, Trogir, Splitsko-dalmatinska županija"
-D111511,DALMATIA CHARTER AGENCY D.O.O,"PUT BRODOGRADITELJA 7, 21220 TROGIR, Hrvatska",Headquarters,False,43.512764784281,16.248580569517,matched,PointAddress,100,"Put Brodograditelja 7, 21220, Trogir, Splitsko-dalmatinska županija"
-D115989,JAROVIT D.O.O.,"DRNIŠKI PUT 11, 21000 SPLIT, Hrvatska",Delivery,False,43.518498299419,16.508221252127,matched,PointAddress,100,"Drniški Put 11, 21000, Kamen, Split, Splitsko-dalmatinska županija"
-D107759,AUTO SERVIS R.S. D.O.O.,"KNEZA TRPIMIRA 147A, 21210 SOLIN, Hrvatska",Delivery,False,43.558027815799,16.497178429969,matched,PointAddress,100,"Kneza Trpimira 147A, 21210, Solin, Splitsko-dalmatinska županija"
-D126325,AUTOSERVIS VELJA,"GRADAC 9, 21312 PODSTRANA, Hrvatska",Headquarters,False,43.499592958716,16.542739186689,matched,PointAddress,100,"Gradac 9, 21312, Strožanac Gornji, Podstrana, Splitsko-dalmatinska županija"
-D129763,DE TEMPORE D.O.O.,"VUKOVARSKA 207, 21000 SPLIT, Hrvatska",Delivery,False,43.513472468366,16.502608143027,matched,PointAddress,100,"Vukovarska 207, 21000, Split, Splitsko-dalmatinska županija"
-D131441,SAILING 4 YOU D.O.O.,"PUT KAPELE 1, 22203 ROGOZNICA, Hrvatska",Headquarters,False,43.540958991992,15.989012138913,matched,PointAddress,100,"Put Kapele 1, 22203, Podglavica, Rogoznica, Šibensko-kninska županija"
-D131540,AUTO MARINO,"KARAKAŠICA 38, 21230 SINJ, Hrvatska",Headquarters,False,43.731367144726,16.646485136819,matched,StreetAddress,100,"Karakašica 38, 21230, Karakašica, Sinj, Splitsko-dalmatinska"
-D131810,HRVOJE OBRT,"PUT LIBOVCA 5, 21251 ŽRNOVNICA, Hrvatska",Headquarters,False,43.520724029988,16.529156396412,matched,PointAddress,92.06,"Put Libovca 5, 21210, Kučine, Solin, Splitsko-dalmatinska županija"
-D132005,MARTIN SUČIĆ UND JARANEN JDOO,"DRAGUTINA DOMJANIĆA 18A, 10361 SESVETE-KRALJEVEC, Hrvatska",Headquarters,False,45.818256370639,16.179568253541,matched,PointAddress,100,"Dragutina Domjanića 18A, 10361, Sesvete, Grad Zagreb"
-D132041,NEUBAU 22 J.D.O.O.,"PLEMENSKO 41, 21213 KAŠTEL GOMILICA, Hrvatska",Headquarters,False,43.551992552146,16.403662961164,matched,PointAddress,100,"Plemensko 41, 21213, Kaštel Gomilica, Kaštela, Splitsko-dalmatinska županija"
-D133545,AUTOSERVIS GAKAMI J.D.O.O.,"PUT DRAGOČEVA 20, 21212 KAŠTEL SUĆURAC, Hrvatska",Delivery,False,43.552872819618,16.422731120336,matched,PointAddress,100,"Put Dragočeva 20, 21212, Kaštel Sućurac, Kaštela, Splitsko-dalmatinska županija"
-D134266,ADRIA DOCKS D.O.O.,"ROVINJSKA 4, 21000 SPLIT, Hrvatska",Headquarters,False,43.50704011205,16.48494110279,matched,PointAddress,100,"Rovinjska 4, 21000, Split, Splitsko-dalmatinska županija"
-D134594,ROKO ČULE,"DON JOZE CULINA 15, 21204 DUGOPOLJE, Hrvatska",Headquarters,False,43.581468310944,16.593381388389,matched,PointAddress,98.11,"Don Ivana Blaža Čulina 15, 21204, Dugopolje, Splitsko-dalmatinska županija"
-D134655,AUTO CENTAR MUŠE OBRT,"NINSKA 21, 21000 SPLIT, Hrvatska",Headquarters,False,43.512307844829,16.47770056337,matched,PointAddress,100,"Ninska 21, 21000, Split, Splitsko-dalmatinska županija"
-D134958,FIDDLER D.O.O.,"PUT STARINA 6, 21212 KAŠTEL SUĆURAC, Hrvatska",Delivery,False,43.551235582471,16.43131661994,matched,PointAddress,100,"Put Starina 6, 21212, Kaštel Sućurac, Kaštela, Splitsko-dalmatinska županija"
-D135064,AIR CARS D.O.O.,"STROŽANAČKA 53, 21312 PODSTRANA, Hrvatska",Delivery,False,43.497060995315,16.537322800857,matched,PointAddress,100,"Strožanačka 53, 21312, Strožanac Donji, Podstrana, Splitsko-dalmatinska županija"
-D135149,STONE TECHNOLOGY D.O.O.,"DON JOZE ČULINA 15, 21204 DUGOPOLJE, Hrvatska",Headquarters,False,43.581468310944,16.593381388389,matched,PointAddress,98.11,"Don Ivana Blaža Čulina 15, 21204, Dugopolje, Splitsko-dalmatinska županija"
-D135346,TERCA ZAJEDNIČKI OBRT ZA IZRADU I USLUGE,"DALMATINSKA 35, 21220 TROGIR, Hrvatska",Headquarters,False,43.496925669488,16.215707918729,matched,PointAddress,97.17,"Dalmatinska 35, 21223, Okrug Donji, Okrug, Splitsko-dalmatinska županija"
-D135714,HANSA - FLEX CROATIA D.O.O.,"SV. LEOPOLDA MANDIĆA 22A, 21204 DUGOPOLJE, Hrvatska",Headquarters,False,43.586391924688,16.571694219751,matched,PointAddress,99.26,"Sv. Leopolda Mandića 22, 21204, Dugopolje, Splitsko-dalmatinska županija"
-D135948,LEGENDICA VIS D.O.O.,"HEKTOROVIČEVA 38C 0955052834, 21210 SOLIN, Hrvatska",Delivery,False,43.533106364092,16.490420185258,matched,PointAddress,97.73,"Hektorovićeva 38C, 21210, Solin, Splitsko-dalmatinska županija"
-D135949,MARIČIĆ M.T. d.o.o.,"KRALJA DRŽISLAVA 53A, 21000 SPLIT, Hrvatska",Headquarters,False,43.50671376265,16.507521782307,matched,PointAddress,100,"Kralja Držislava 53A, 21000, Split, Splitsko-dalmatinska županija"
-D136011,AUTO DAVID vl.obrta DAVID NORAC-KLJAJO,"PRIBLAĆE 14, 21238 OTOK (DALMACIJA), Hrvatska",Headquarters,False,43.68134296205,16.723625015804,matched,PointAddress,97.5,"Priblaće 14, 21238, Otok, Splitsko-dalmatinska županija"
-D136213,VINUM FERDINAND D.O.O.,"HRVATSKIH DOMOBRANA 3, 21420 BOL, Hrvatska",Delivery,False,43.262008122756,16.64727509797,matched,PointAddress,100,"Hrvatskih domobrana 3, 21420, Bol, Splitsko-dalmatinska županija"
-D136394,JURE BEST CAR SERVICE J.D.O.O.,"SARAJEVSKA 28, 21000 SPLIT, Hrvatska",Delivery,False,43.520510249548,16.475053809804,matched,PointAddress,100,"Sarajevska 28, 21000, Split, Splitsko-dalmatinska županija"
-D136607,AUTO CENTAR SPLIT d.o.o.,"PUT ARAPOVCA 2, 21210 SOLIN, Hrvatska",Headquarters,False,43.536337671586,16.502872592072,matched,PointAddress,100,"Put Arapovca 2, 21210, Solin, Splitsko-dalmatinska županija"
-D136608,AUTO ĆUKI,"DRAČEVAC 23, 21000 SPLIT, Hrvatska",Headquarters,False,43.526205585118,16.503590669717,matched,PointAddress,100,"Dračevac 23, 21000, Split, Splitsko-dalmatinska županija"
-D102795,JADRANTRANSSERVIS I,"PUT BANA 22, 21204 DUGOPOLJE, Hrvatska",Headquarters,False,43.583436351813,16.555482490409,matched,StreetAddress,99.02,"Ulica Put Bana 22, 21204, Dugopolje, Splitsko-dalmatinska"
-D109831,AUTOMEH. OBRT MARTINIĆ,"Put Zlatnog rata 61, 21420 BOL, Hrvatska",Headquarters,False,43.264025437303,16.64013061516,matched,PointAddress,100,"Put Zlatnog rata 61, 21420, Bol, Splitsko-dalmatinska županija"
+﻿id,name,address,addressType,lat,lon,status
+RIV-001,RIVALITAS D.O.O.,"GARDUN 52, 21240 TRILJ, Hrvatska",Delivery,43.621642924257,16.709365835292,matched
+D106871,B-KOP,"IMOTSKA 19, 21311 Stobreč, Hrvatska",Delivery,43.502341594315,16.523087479418,matched
+PRI-009,PRIZMIĆ D.O.O.,"OSIJECKA 11, 21000 SPLIT, Hrvatska",Delivery,43.508748553465,16.451386584179,matched
+D105456,DAMOR AUTO d.o.o.,"CESTA IVANA PAVLA II 9., 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,43.549656264274,16.435780653933,matched
+D104817,MOTOBOX D.O.O.,"VIDINA 11 (ULAZ IZ VUKOVARSKE), 21000 SPLIT, Hrvatska",Delivery,43.51573583368,16.480763059333,matched
+D104680,MARKO ANČIĆ D.O.O.,"PUT SIROBUJE 51A, 21000 SPLIT, Hrvatska",Headquarters,43.505811618411,16.514991315322,matched
+D125454,AUTO MUŠE J.D.O.O.,"A.G. MATOŠA 16, 21210 SOLIN, Hrvatska",Delivery,45.287893418141,19.110964709282,matched
+D107926,SERVIS GASOLINA,"PUT SIROTKOVIĆA 23A, 21251 ŽRNOVNICA, Hrvatska",Headquarters,43.521252631,16.553822047,review
+D115347,AUTOMEHANIČARSKE USLUGE BOLE,"CESTA IVANA PAVLA II 248, 21216 KAŠTEL STARI, Hrvatska",Headquarters,43.558854342233,16.35031070512,matched
+D108578,ČOVO METALI D.O.O.,"KARAKAŠICA 126, 21230 SINJ, Hrvatska",Headquarters,43.738246026327,16.637939669489,matched
+D129168,L. & A. Auto works d.o.o.,"PUT STARINA 6, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,43.551235582471,16.43131661994,matched
+D107030,AUTOBUS D.O.O.,"SV.LEOPOLDA MANDIĆA 20, 21204 DUGOPOLJE, Hrvatska",Delivery,43.590099299647,16.572841216388,review
+D124195,JADRAN TRANSPORT,"TURJACI 349, 21230 SINJ, Hrvatska",Delivery,43.651288432838,16.640178140551,matched
+D106187,AUTOMOBILIA d.o.o,"DOMOVINSKOG RATA97, 21000 Split, Hrvatska",Delivery,43.519386571608,16.475475587172,matched
+D111924,CUMMINS ADRIATIC D.O.O.,"KRALJICE JELENE 15, 21204 DUGOPOLJE, Hrvatska",Headquarters,43.589775112267,16.585706331109,matched
+D108434,OBRT TESLA,"SV.JOSIPA 18, 21423 NEREŽIŠĆA, Hrvatska",Headquarters,43.329902879582,16.574988726794,matched
+D109097,MARINE CLUB INTERNATIO. D.O.O.,"Put sjeverne luke 11, 21000 SPLIT, Hrvatska",Headquarters,43.526757198166,16.461452244065,matched
+D109218,AUTO SERVIS ŽUTI,"FRANJE TUĐMANA 1090, 21217 Kaštel Štafilić, Hrvatska",Headquarters,43.548908658398,16.325090951301,matched
+BER-008,BERICA D.O.O.,"NEREŽIŠĆA bb, 21243 NEREŽIŠĆA/BRAČ, Hrvatska",Delivery,43.330168432,16.575442999,review
+D116918,PUDE SERVIS D.O.O.,"DR.F.TUĐMANA 5, 21222 MARINA, Hrvatska",Headquarters,43.513417944086,16.112646048941,matched
+D109475,AUTOSERVIS MARINIĆ D.O.O.,"KNEZA TRPIMIRA 56A, 21210 SOLIN, Hrvatska",Headquarters,43.547986002428,16.49469562643,matched
+D129462,FJAKA OBRT,"TURJACI 346 KUKUZOVAC, 21230 SINJ, Hrvatska",Delivery,43.651213917719,16.638285674452,matched
+ZTO-001,Z.T.O.  ROBI,"TROGIRSKA CESTA 14, 21220 TROGIR, Hrvatska",Delivery,43.528656495516,16.245076095799,matched
+D104468,CROATIA YACHTING D.O.O.,"OBALA KRALJA TOMISLAVA 11A, 21213 KAŠTEL GOMILICA, Hrvatska",Delivery,43.548575501679,16.388037081989,matched
+D124140,AUTO DALMACIJA D.O.O.,"CESTA PLANO 2A, 21220 TROGIR, Hrvatska",Headquarters,43.537755470508,16.285541996493,matched
+BAL-001,AUTOKUĆA BALINJERA d.o.o.,"Put Duja 1 a, 21000 S P L I T, Hrvatska",Headquarters,43.523575008625,16.462030595384,matched
+LOV-001,LOVRET  d.o.o,"PODČELINA 37, 21312 PODSTRANA, Hrvatska",Delivery,43.496254907686,16.540256550787,matched
+D124455,AUTOSERVIS NINKOVIĆ J.D.O.O.,"HRVATSKIH BRANITELJA 11, 21403 SUTIVAN, Hrvatska",Headquarters,43.382219408351,16.478302048742,matched
+VEL-016,VELOCITAS d.o.o.,"SV.MIHOVILA 7, 21204 DUGOPOLJE, Hrvatska",Headquarters,43.587870154584,16.582637345766,matched
+D103328,PLING D.O.O.,"K.ZVONIMIRA 75, 21210 SOLIN, Hrvatska",Headquarters,43.536723448679,16.489368507866,matched
+D114477,TORNUS D.O.O.,"PUT PRJE 3A, 21410 POSTIRA, Hrvatska",Headquarters,43.376418335073,16.623663276724,matched
+D101612,M-P-BETON d.o.o.,"DON FRANE BULIĆA 209, 21210 SOLIN, Hrvatska",Headquarters,43.54473001023,16.459170019468,matched
+D106043,SAN-GRA D.O.O.,"KAMENOLOM(KAVA), 21209 MRAVINCE, Hrvatska",Delivery,43.532469065,16.515961922,review
+D107237,CLISSA D.O.O.,"Cesta dr.Franje >Tuđmana 16, 21231 Klis, Hrvatska",Delivery,43.575081049267,16.536165679123,matched
+D124082,TRUCK AND CAR D.O.O.,"BRAĆE RADIĆ 27, 21209 MRAVINCE, Hrvatska",Delivery,43.53564557784,16.519693646822,matched
+D124086,Q-YACHT D.O.O.,"SPLITSKA 22-24, 22202 PRIMOŠTEN, Hrvatska",Delivery,43.570653434643,15.943777773503,matched
+D110025,P.&P. YACHTCHARTER d.o.o.,"SPLITSKA 22-24, 22202 PRIMOŠTEN, Hrvatska",Delivery,43.570653434643,15.943777773503,matched
+MER-009,AUTOMEHANIČARSKI OBRT MERCEDES,"SVETE TEKLE 3, 21210 SOLIN, Hrvatska",Headquarters,43.532268467141,16.508088650419,matched
+KRE-010,KREMIK SERVIS D.O.O.,"SPLITSKA 22/24, 22202 PRIMOŠTEN, Hrvatska",Headquarters,43.570653434643,15.943777773503,matched
+IKL-001,AUTOSERVIS IKLJAŠ,"SV. LUKE 4, 21238 OTOK (DALMACIJA), Hrvatska",Delivery,43.688232341636,16.731996273963,matched
+D131377,GEO PARS D.O.O.,"VUKOVARSKA 164, 21000 SPLIT, Hrvatska",Headquarters,43.515249767115,16.47803734824,matched
+ATT-002,ATT D.O.O,"N/R TOMISLAV, 21000 SPLIT, Hrvatska",Delivery,43.5070329,16.4422965,review
+D112080,AUTOSERVIS GEDOR D.O.O.,"SV. MIHOVILA 13B, 21204 DUGOPOLJE, Hrvatska",Headquarters,43.588237200672,16.58364765187,matched
+D134143,AUTOSERVIS MRAVAK,"VRANJIČKI PUT 56, 21000 SPLIT, Hrvatska",Delivery,43.525832129422,16.468675097669,matched
+D130798,JDM AUTOMEHANIČARSKI OBRT,"STROŽANAČKA 53, 21312 PODSTRANA, Hrvatska",Headquarters,43.497060995315,16.537322800857,matched
+D127159,GRAVITON D.O.O.,"OBALA PETRA KREŠIMIRA IV 3, 21327 PODGORA, Hrvatska",Headquarters,43.244241798876,17.069584381333,matched
+D112550,AUTOSERVIS KLJAJO,"PRIBLAČE 4 A, 21238 OTOK (DALMACIJA), Hrvatska",Headquarters,43.682340408527,16.724930581043,matched
+D100482,AUTOELEKTROSERVIS ŠABIĆ,"BRNAZE 176, 21230 SINJ, Hrvatska",Headquarters,43.690478104954,16.647337040234,matched
+D132105,IN &  OUT OBRT,"PUT KRSTOLOVAČE 13, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,43.552945784085,16.420522740307,matched
+PRO-033,PROPULZIJA D.O.O.,"SVETOG DUJE 10 A, 21204 DUGOPOLJE, Hrvatska",Headquarters,43.589560451726,16.575069695979,matched
+D107302,GLANC D.O.O.,"MATOŠEVA 84, 21210 SOLIN, Hrvatska",Headquarters,43.530078192023,16.50267712609,matched
+D123203,KREMIK NAUTIC CENTER D.O.O.,"SPLITSKA 22-24, 22202 PRIMOŠTEN, Hrvatska",Delivery,43.570653434643,15.943777773503,matched
+D128611,AUTOELEKTRIKA ELEANOR J.D.O.O.,"CESTA DR. FRANJE TUĐMANA 406, 21213 KAŠTEL GOMILICA, Hrvatska",Delivery,43.549384730042,16.398687445185,matched
+D129529,VIZA PROJEKT D.O.O.,"MOSEĆKA 3, 21000 SPLIT, Hrvatska",Delivery,43.517750717475,16.466550033757,matched
+D103880,AUTO LABINKO,"SIČANE 2, 21232 DICMO, Hrvatska",Headquarters,43.658118110893,16.576567483021,review
+D124096,AUTOSERVIS ČUPO,"HRVACE 571, 21233 HRVACE, Hrvatska",Headquarters,43.765404498681,16.619800764724,review
+D111375,PAKLENI OTOCI D.O.O.,"KOPILICA 47, 21000 SPLIT, Hrvatska",Delivery,43.525409555773,16.460467789537,matched
+MAT-019,AUTO MATAS,"Satrić 199, 21233 HRVACE, Hrvatska",Headquarters,43.778077002377,16.599283722713,review
+D111525,ĐULA D.O.O.,"PUT UNČINA 8, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,43.541462666145,16.458603124069,matched
+SAR-003,SARDINA D.D.,"POSTIRA BB, 21410 POSTIRA, Hrvatska",Headquarters,43.3755528,16.6268951,review
+D134113,OBRT LIMITT,"STRANA I 84, 21238 OTOK (DALMACIJA), Hrvatska",Headquarters,43.696637043588,16.745599348445,matched
+D115745,AUTOSERVIS VRBAT,"SV.IVANA TROGIRSKOG 32A, 21220 TROGIR, Hrvatska",Headquarters,43.523686404118,16.247241644304,matched
+D104745,AUTO AKUSTIKA VARNICA D.O.O.,"PUT SVETOG LOVRE 27, 21215 KAŠTEL LUKŠIĆ, Hrvatska",Headquarters,43.556023213236,16.364611049865,review
+D106613,DODIG GUMAX,"KOŠUTE 168 D, 21240 Trilj, Hrvatska",Delivery,43.619863278337,16.719459837492,review
+D131323,PELOTON D.O.O.,"ZRINSKO FRANKOPANSKA 58, 21000 SPLIT, Hrvatska",Delivery,43.52241113946,16.43352323977,matched
+D108003,BOSNIĆ D.O.O.,"RAKITE 27, 21251 ŽRNOVNICA, Hrvatska",Headquarters,43.514613622573,16.539469238622,matched
+D107786,EAST CARS SERVIS,"BRNIK 8, 21000 SPLIT, Hrvatska",Headquarters,43.514529510175,16.498688765102,matched
+D119102,AUTOSERVIS KLARIĆ  OBRT,"PUT KOŠUTA 10, 21240 TRILJ, Hrvatska",Headquarters,43.621640677388,16.713049987663,matched
+D123883,C.I.A.K. AUTO D.O.O.,"BRNAZE 176A, 21230 SINJ, Hrvatska",Delivery,43.69023347911,16.646918447989,matched
+D126818,CHECK ENGINE J.D.O.O.,"DRAČEVAC 100, 21000 SPLIT, Hrvatska",Delivery,43.523337549308,16.505698634547,matched
+NAV-006,NAVIGATOR D.O.O.,"SPLITSKA22 (MARINA KREMIK), 22202 PRIMOŠTEN, Hrvatska",Delivery,43.570653434643,15.943777773503,matched
+D123354,MOTO BIT D.O.O.,"KRBAVSKA 18, 21000 SPLIT, Hrvatska",Headquarters,43.514054759179,16.47466463804,matched
+D133612,ADRIA SHIPPING MANAGEMENT D.O.O.,"CAJKOVSKOG 10, 21000 SPLIT, Hrvatska",Delivery,43.512148295302,16.436554219777,matched
+D110273,DIZEL SERVIS-BOŠNJAK d.o.o.,"DON FRANE BULIĆA 171, 21210 SOLIN, Hrvatska",Delivery,43.544763286386,16.465374304198,matched
+MAT-011,AUTOSERVIS MATAS,"HRVACE 573, 21233 HRVACE, Hrvatska",Delivery,43.772178778319,16.608325483561,matched
+D103190,AUTO DAVOR D.O.O.,"HERCEGOVAČKA 74, 21000 SPLIT, Hrvatska",Headquarters,43.521637825073,16.469168121214,matched
+LAG-003,LAGUNA TRADE D.O.O.,"UVALA SOLINE 1, 22203 ROGOZNICA, Hrvatska",Delivery,43.531986332281,15.960941480454,matched
+D103952,DVD BOL,"HRVATSKIH DOMOBRANA 3, 21420 BOL, Hrvatska",Headquarters,43.262008122756,16.64727509797,matched
+D102723,T.T. MEHANIKA,"KAMENA 31, 21251 ŽRNOVNICA, Hrvatska",Headquarters,43.521009894796,16.544099401936,matched
+D134885,AUTO SERVIS SALONA,"DON FRANE BULIĆA 58, 21210 SOLIN, Hrvatska",Delivery,43.543273319278,16.480411689952,matched
+D100269,AUTOSERVIS GRČIĆ,"ULICA FILIPA GRABOVCA 98, 21230 SINJ, Hrvatska",Headquarters,43.716073755043,16.6431881658,matched
+IVA-016,FORD AUTO IVAN,"ZRINSKO-FRANKOPANSKA 157, 21000 SPLIT, Hrvatska",Headquarters,43.522228916885,16.433066342228,matched
+D100552,Autolimarski obrt ŠIMAC,"GAJEVA BB, 21209 MRAVINCE, Hrvatska",Headquarters,43.532559031413,16.516435494743,review
+D103091,AUTO TIM PISAČIĆ D.O.O.,"GENERALA ZADRE 1, 21000 SPLIT, Hrvatska",Delivery,43.515224956682,16.490744061997,matched
+PAV-010,AUTO CENTAR PAVEŠKOVIĆ d.o.o.,"BETANIJA 1, 21220 TROGIR, Hrvatska",Headquarters,43.518300947509,16.241945622602,matched
+DVD-004,DVD SUPETAR,"PUT VELE LUKE BB, 21400 SUPETAR, Hrvatska",Headquarters,43.385316465637,16.548065914711,review
+TER-015,TERRA JASKA d.o.o.,"PJ SPLIT, 21204 DUGOPOLJE, Hrvatska",Delivery,43.5612922,16.5233675,review
+JUK-004,AUTO-JUKIĆ D.O.O.,"BRNAZE 68, 21234 BRNAZE, Hrvatska",Headquarters,43.692827342866,16.643374411689,matched
+D103419,PAVKOVIĆ,"PUT K.TOMISLAVA 86, 21218 SEGET DONJI, Hrvatska",Headquarters,43.513916290139,16.192995810971,matched
+D107667,MIKROSIVERIT-ZA DOM D.O.O.,"KRALJA ZVONIMIRA 29, 22320 DRNIŠ, Hrvatska",Headquarters,43.861401874507,16.154016273168,matched
+D128052,KRSTUL D.O.O.,"SV. LEOPOLDA MANDIĆA 29, 21204 DUGOPOLJE, Hrvatska",Delivery,43.590099299647,16.572841216388,review
+D109371,PROMET SINJ D.O.O.,"STJEPANA IVIČEVIĆA 60, 21300 MAKARSKA, Hrvatska",Delivery,43.285753258171,17.028787227827,matched
+D101657,"U.O.MIKI,VL.MARIČIĆ ANTE","PUT PAŠIKA 13, 21400 SUPETAR, Hrvatska",Headquarters,43.383326364394,16.548441395419,matched
+D109358,AUTO SERVIS BIOČINA,"PUT KRIŽA 15, 21400 SUPETAR, Hrvatska",Headquarters,43.380260264212,16.559897529222,matched
+D122139,ELMAN,"PUT BORIKA 17, Šine, 21000 SPLIT, Hrvatska",Headquarters,43.510151851694,16.52536140593,matched
+JOZ-001,JOZIĆ GUMING - VULKANIZER vl.,"PRISOJE BB, 21232 PRISOJE, Hrvatska",Headquarters,43.630734823076,16.606014492167,review
+D111857,SIGNALIZACIJA HR D.O.O.,"PUT DRAČANICE 8, 21204 Dugopolje, Hrvatska",Delivery,43.590863971868,16.586604478673,matched
+JEN-002,"AUTO JENJIĆ,","GLAVICE 112, 21230 SINJ, Hrvatska",Headquarters,43.704592647536,16.661584563615,matched
+D103350,"AUTO SERVIS VW-AUDI,zajednički obrt","I. Pavla II 87, 21214 KAŠTEL KAMBELOVAC, Hrvatska",Headquarters,43.5539997,16.3655,review
+D129892,TECH-CAR d.o.o.,"PUT KAVE 4, 21212 KAŠTEL SUĆURAC, Hrvatska",Delivery,43.551865244097,16.455483165593,review
+D131393,GARAŽA PREKO PUTA J.D.O.O.,"IVANA PAVLA II 235, 21216 KAŠTEL STARI, Hrvatska",Delivery,43.558584164623,16.345335392442,matched
+D126278,WAGEN SERVIS TEAM,"CESTA DR. FRANJE TUĐMANA 1090, 21217 KAŠTEL ŠTAFILIĆ, Hrvatska",Headquarters,43.548788527748,16.324978431838,matched
+ADR-001,ADRIATIC INDUSTRIAL,"PUT DRAGULILA 15, 21220 TROGIR, Hrvatska",Headquarters,43.52087104857,16.246507724862,matched
+D107019,TASLAK TRADE D.O.O.,"OREŠAC BB, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,43.5471746,16.4267704,review
+D122827,OBRT ZA PRIJEVOZ KICA,"JADRANSKA 17A, 21400 SUPETAR, Hrvatska",Headquarters,43.382295390303,16.559513638057,matched
+D127753,BUCO BRAČ 1977,"KOPILICA 25B, 21000 SPLIT, Hrvatska",Headquarters,43.524541022966,16.454979570794,matched
+BID-002,BID D.O.O.,"MOSTARSKA  2, 21000 SPLIT, Hrvatska",Delivery,43.522145977953,16.463538332127,matched
+SLI-003,AUTOSLIV d.o.o.,"Put Tršćenice 8, 21000 Split, Hrvatska",Delivery,43.511894239817,16.487100616324,matched
+D110276,AUTO-COM,"OBROVAC SINJSKI 98B, 21241 OBROVAC SINJSKI, Hrvatska",Headquarters,43.736399199691,16.682581937258,matched
+D103800,AMIŽIĆ D.O.O.,"MOSORSKA 63, 21251 ŽRNOVNICA, Hrvatska",Headquarters,43.519840619303,16.531196216369,matched
+D134617,GUSTIN PERFORMANCE J.D.O.O.,"STINICE 1B, 21000 SPLIT, Hrvatska",Delivery,43.522340438106,16.448211603075,matched
+D123130,"AUTO,AUTOMEHANIČARSKI OBRT","NEREŽIŠĆA BB, 21423 NEREŽIŠĆA, Hrvatska",Delivery,43.264895098403,16.605961591795,review
+D103523,AUTOMEHANIČARSKI OBRT STEPINAC,"SVETOG IVANA 9, 21251 DONJE SITNO, Hrvatska",Headquarters,43.501546277432,16.602666693089,matched
+D115734,"PERKOVIĆ ,OBRT ZA USLUGE","KARLOVO 74, 21214 KAŠTEL KAMBELOVAC, Hrvatska",Headquarters,43.554942585067,16.382568966423,matched
+D131375,POLJOMAR MARINE D.O.O.,"BLEIBURŠKIH ŽRTAVA 10, 21204 DUGOPOLJE, Hrvatska",Delivery,43.596983685314,16.579925358421,matched
+D103135,POLJOMAR D.O.O.,"ULICA BLEIBURŠKIH ŽRTAVA 10, 21204 DUGOPOLJE, Hrvatska",Delivery,43.596983685314,16.579925358421,matched
+D133841,NAKIĆ-ALFIREVIĆ D.O.O.,"STUDINOVA 5, 21000 SPLIT, Hrvatska",Delivery,43.515006775742,16.471956612762,matched
+D122739,EGO TIBI J.D.O.O.,"BRNAZE 464, 21230 SINJ, Hrvatska",Headquarters,43.675494572928,16.651299501141,matched
+PIC-004,PICOTRANS D.O.O.,"BRNAZE 176, 21230 SINJ, Hrvatska",Delivery,43.690478104954,16.647337040234,matched
+D103838,HAK-AUTO KLUB SPLIT,"Hrvatske mornarice 14, 21000 SPLIT, Hrvatska",Headquarters,43.518744308277,16.438074613194,matched
+AUT-011,IVO ĆURIĆ,"PAŠTRIĆEVA  12, 21000 S P L I T, Hrvatska",Headquarters,43.51298128884,16.479271080568,matched
+D119867,MARINE DIAGNOSTICS D.O.O,"POLJIČKE KNEŽEVINE 39, 21292 SRINJINE, Hrvatska",Headquarters,43.488564511523,16.603380328325,matched
+D107236,YACHT4YOU D.O.O.,"OBALA KRALJA TOMISLAVA 11A, 21213 KAŠTEL GOMILICA, Hrvatska",Delivery,43.548575501679,16.388037081989,matched
+ANT-017,AUTOSERVIS ANTE VL. RUŽIČIĆ AN,"KNEZA TRPIMIRA 26, 21220 TROGIR, Hrvatska",Delivery,43.519570051469,16.256669776634,matched
+VIM-001,VIMA D.O.O.,"BENKOVAČKA ULICA 3, 21000 SPLIT, Hrvatska",Headquarters,43.518056615031,16.45962515681,matched
+D130134,FORNIX D.O.O.,"INDUSTRIJSKI PUT 6, 21315 DUGI RAT, Hrvatska",Headquarters,43.441140541547,16.645522525835,matched
+D107907,U.O. AUTO MUŽINIĆ,"ANTE STARČEVIĆA 153, 21251 ŽRNOVNICA, Hrvatska",Delivery,43.524811381253,16.534368934359,matched
+D124030,AUTOSERVIS A JE TO,"CESTA IVANA PAVLA II 335, 21217 KAŠTEL ŠTAFILIĆ, Hrvatska",Delivery,43.546966050541,16.299384290492,matched
+IVE-002,IVE COMMERCE d.o.o.,"PUT BLATA 60, 21216 KAŠTEL STARI, Hrvatska",Headquarters,43.55440647171,16.340241630634,matched
+MAT-029,"MATIĆ PROM,VL.OBRTA ANTE MATIĆ","FILIPA GRABOVCA 43, 21230 SINJ, Hrvatska",Headquarters,43.709552760101,16.640308562964,matched
+D124219,BETONARA GIZDIĆ,"UL. KNEZA TRPIMIRA 197, 21231 KLIS, Hrvatska",Delivery,43.556538051182,16.50608268213,matched
+D111172,QUATTRO-TECH D.O.O.,"PUT DRAGOCEVA 8, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,43.551739628218,16.422797924105,matched
+D109301,DVD MLADOST,"PUTALJSKI PUT 58, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,43.547641802347,16.426652381113,matched
+D126742,BETON-HRVACE D.O.O.,"HRVACE 564, 21233 HRVACE, Hrvatska",Headquarters,43.760737354756,16.595400588864,matched
+D127782,SPARK,"BRNAZE 447A, 21230 SINJ, Hrvatska",Headquarters,43.676628267242,16.649050636519,matched
+D131376,KUM D.O.O.,"142. BRIGADE 31, 22321 SIVERIĆ, Hrvatska",Delivery,43.870237322464,16.193479614422,matched
+D133019,ŠIŠKO OBRT,"PUT PIKETA 136, 21230 SINJ, Hrvatska",Delivery,43.697365682431,16.659641841734,matched
+D123503,DIVING SUPPORT MARINKOVIČ,"DOSICINA III/14, 21405 MILNA, Hrvatska",Delivery,43.330056938962,16.44818696028,matched
+D101459,"AUTOPALACE-AUTOMAX,","F.TUĐMANA 107, 21216 KAŠTEL STARI, Hrvatska",Headquarters,43.549949400383,16.333109255104,review
+ELE-021,FRIGO PIVČEVIĆ VL. PIVČEVIĆ M.,"PUT PAZIGRADA 14, 21000 SPLIT, Hrvatska",Headquarters,43.506839323559,16.491970334431,matched
+D129893,MANAS D.O.O.,"SOLINSKA 52, 21000 SPLIT, Hrvatska",Delivery,43.525081655721,16.475665604917,matched
+D106714,RAPIDUS D.O.O.,"Kraj 155, 21232 Dicmo, Hrvatska",Delivery,43.63865404532,16.571864224581,matched
+D133161,OBRT ŠTEF,"HRVACE 16, 21233 HRVACE, Hrvatska",Headquarters,43.765404498681,16.619800764724,review
+D109782,PRIME YACHTING J.D.O.O.,"CESTA DR. FRANJE TUĐMANA 197, 21212 KAŠTEL SUĆURAC, Hrvatska",Delivery,43.547674534364,16.426768293823,review
+D122269,AUTO ĐAFER,"PRAŽNICA 53 A, 21424 PRAŽNICA, Hrvatska",Headquarters,43.318854860644,16.699305259017,matched
+D113449,UNDER HEAVEN D.O.O.,"SPLITSKA 22-24, 22202 PRIMOŠTEN, Hrvatska",Delivery,43.570653434643,15.943777773503,matched
+D103664,KOTARAC SISTEMI D.O.O.,"BRNAZE 410, 21230 SINJ, Hrvatska",Delivery,43.684595894853,16.652035767516,matched
+D123837,SUSTAVI JANKOVIĆ,"HRVACE 73, 21233 HRVACE, Hrvatska",Headquarters,43.765404498681,16.619800764724,review
+D105290,AUTO CENTAR KNEZOVIĆ D.O.O.,"JOSIPA JOVICA 151, 21000 SPLIT, Hrvatska",Delivery,43.51728024125,16.485488021972,matched
+D104497,MORSKA PTICA,"HOTEL ZORA, 22202 PRIMOŠTEN, Hrvatska",Delivery,43.5899756,15.9193298,review
+D105185,AUTO BILOBRK,"OBROVAC SINJSKI 67B, 21241 OBROVAC SINJSKI, Hrvatska",Delivery,43.742870028942,16.689901937121,matched
+COM-006,COMA C.A.R. d.o.o.,"IVICA IVANCIC - 0915018922, 21000 SPLIT, Hrvatska",Delivery,43.5070329,16.4422965,review
+D130820,AUTO BOLDOVIĆ,"DON NIKOLE MILIČEVIĆA 1, 21423 NEREŽIŠĆA, Hrvatska",Headquarters,43.331735163616,16.576016012847,matched
+LUC-001,LUCKY  d.o.o.,"MATOŠEVA  34, 21210 SOLIN, Hrvatska",Headquarters,43.530577292447,16.496666882418,matched
+D110001,FRANE AUTOELEKT. OBRT,"GOSPE KARMELSKE 34, 21425 SELCA, Hrvatska",Headquarters,43.293668163611,16.850408090675,matched
+D129170,ŠPERANDA D.O.O.,"Ljubuška 10, 21000 SPLIT, Hrvatska",Headquarters,43.523126325348,16.478915352597,matched
+D129648,KOBRA-KOP,"KRČ DOLAC GRUJINI 18, 22202 PRIMOŠTEN, Hrvatska",Headquarters,43.575391347322,15.982821516685,matched
+D129380,SALONČIĆ BOMBONČIĆ D.O.O.,"VUKOVARSKA 52A, 21000 SPLIT, Hrvatska",Delivery,43.510845160815,16.452799437778,matched
+D126204,ŽERA D.O.O.,"OBROVAC SINJSKI 82, 21241 OBROVAC SINJSKI, Hrvatska",Headquarters,43.738103533973,16.6850281957,matched
+D111782,RAVLIĆ MARIO,"IMOTSKA 25, 21311 STOBREČ, Hrvatska",Headquarters,43.502386395588,16.523616042232,matched
+D124532,ARTUM TEMPUS D.O.O.,"RUĐERA BOŠKOVIĆA 7, 21000 SPLIT, Hrvatska",Delivery,43.505982818783,16.465540936433,matched
+D127227,JAKI MARINE SERVICE,"POLJIČKA CESTA 37, 21222 MARINA, Hrvatska",Headquarters,43.517381704188,16.12794704555,matched
+D119949,PANDUR,"ULICA SV.LUKE 3A, 21238 OTOK (DALMACIJA), Hrvatska",Headquarters,43.688059381064,16.731346592648,matched
+D117848,AUTO VITIĆ 77 J.D.O.O.,"OBROVAC SINJSKI 203B, 21241 OBROVAC SINJSKI, Hrvatska",Headquarters,43.733136124785,16.694397654708,matched
+D108572,VERITAS ESCO D.O.O.,"MEJAŠI 2, 21000 SPLIT, Hrvatska",Headquarters,43.51761266753,16.486853350181,matched
+D124240,FRAMAC OBRT ZA USLUGE,"PUT GLAVICE 28, 21212 KAŠTEL SUĆURAC, Hrvatska",Headquarters,43.548699763393,16.429666558481,matched
+D131336,BENBELLO OBRT ZA SERVIS,"ŽALO 27, 21405 MILNA, Hrvatska",Headquarters,43.328729035952,16.448265917808,matched
+D133020,PAIĆ TOURS DICMO-PUTNIČKA,"OSOJE 35, 21232 DICMO, Hrvatska",Delivery,43.617862672837,16.590339917095,matched
+D129863,ORVAS D.O.O.,"LEOPOLDA MANDIĆA 10, 21204 DUGOPOLJE, Hrvatska",Headquarters,43.589838720191,16.572414733438,matched
+D123362,GUSTIN D.O.O.,"STINICE 1B, 21000 SPLIT, Hrvatska",Delivery,43.522340438106,16.448211603075,matched
+TOR-006,TORNADO d.o.o.,"PUT DUJA 16, 21000 SPLIT, Hrvatska",Delivery,43.523484945075,16.461337328172,matched
+D129723,MARINA KREMIK D.O.O.,"SPLITSKA 24, 22202 PRIMOŠTEN, Hrvatska",Headquarters,43.571794798398,15.940878808471,matched
+JUR-016,JURIŠIĆ AUTO VL. JURIŠIĆ MARIN,"KROZ SMRDEČAC 33 A, 21000 SPLIT, Hrvatska",Headquarters,43.509405862312,16.473009882715,matched
+D131444,ŽENINA MESNICA,"GOSPE U SITI 14, 21312 PODSTRANA, Hrvatska",Headquarters,43.503360749922,16.535335619252,matched
+MNA-001,M & N AUTOMEH. TRG. OBRT,"GENERALA BLAGE ZADRA 1, 21000 SPLIT, Hrvatska",Headquarters,43.515224956682,16.490744061997,matched
+D106293,FOR-DENTAL,"VISOKA 7, 21000 Split, Hrvatska",Delivery,43.511617343645,16.475109800918,matched
+D127276,AUTOSERVIS LIMENI J.D.O.O.,"KOPILICA 5, 21000 SPLIT, Hrvatska",Delivery,43.523174186015,16.450703207613,matched
+D115775,VILIČAR D.O.O.,"MOSTARSKA 2, 21000 SPLIT, Hrvatska",Headquarters,43.522145977953,16.463538332127,matched
+D111947,D&D PLOVILA D.O.O.,"DR.FRANJE TUĐMANA 213, 21212 KAŠTEL GOMILICA, Hrvatska",Delivery,43.547114745503,16.403790198455,matched
+D125748,EDISON,"DON JOZE ČULINE 15, 21204 DUGOPOLJE, Hrvatska",Headquarters,43.584815237061,16.594175064177,matched
+D119769,INCLUDE D.O.O,"SOLINSKA 52, 21000 SPLIT, Hrvatska",Delivery,43.525081655721,16.475665604917,matched
+D115636,JEDRENJE CHARTER SERVIS D.O.O.,"OBALA KRALJA TOMISLAVA 11A, 21213 KAŠTEL GOMILICA, Hrvatska",Delivery,43.548575501679,16.388037081989,matched
+D125937,STORM CHARTER D.O.O.,"PUT BRODOGRADITELJA 7, 21220 TROGIR, Hrvatska",Headquarters,43.512764784281,16.248580569517,matched
+D119014,YELLOW NAUTIC D.O.O.,"MARINA GETALDIĆA 5, 21000 SPLIT, Hrvatska",Headquarters,42.641337182757,18.107880756829,matched
+D105715,DVD SLATINE,"PUT DUBOKE GARME 2, 21224 SLATINE, Hrvatska",Headquarters,43.499721453292,16.332735967046,matched
+D126071,BRAVAR MARIO,"CESTA DR FRANJE TUĐMANA 344, 21212 KAŠTEL SUĆURAC, Hrvatska",Delivery,43.548014584718,16.41333039683,matched
+D109583,RABBIT J.D.O.O.,"POLJUDSKO ŠETALIŠTE bb, 21000 Split, Hrvatska",Delivery,43.521749259343,16.429023128693,review
+D113014,CAR GARAGE D.O.O.,"DOMOVINSKOG RATA 115A, 21312 PODSTRANA, Hrvatska",Headquarters,43.50166764739,16.544631904245,matched
+D125486,TAXI GRINGO,"BARTOLA KAŠIĆA 12, 21000 SPLIT, Hrvatska",Headquarters,43.505757175204,16.429130532601,matched
+D108016,HYDROCAR D.O.O.,"PUT KAVE 4, 21212 KAŠTEL SUĆURAC, Hrvatska",Delivery,43.551865244097,16.455483165593,review
+MOT-004,MOTORSPORT D.O.O.,"KNEZA TRPIMIRA 161, 21210 SOLIN, Hrvatska",Delivery,43.560274543036,16.497776897856,matched
+ANT-015,AUTOSERVIS-ANTE,"FRANJE TUĐMANA 929, 21216 KAŠTEL ŠTAFILIĆ, Hrvatska",Headquarters,43.546086369802,16.318559318929,matched
+D123585,APRICUM D.O.O.,"KOPILICA 47B, 21000 SPLIT, Hrvatska",Delivery,43.525372759218,16.460974727041,matched
+D110867,MOTO FUTURA d.o.o.,"Poljička cesta 76, 21000 Split, Hrvatska",Delivery,43.50738496247,16.469762976789,review
+D127682,BZ PORTUS SALONA,"ALOJZIJA STEPINCA 18b, 21210 SOLIN, Hrvatska",Headquarters,43.533792925781,16.503331333633,matched
+D114729,SOUND OF THE SEA D.O.O.,"091 1970 077, 21000 SPLIT, Hrvatska",Delivery,43.5070329,16.4422965,review
+D127284,ROYAL M,"KRAJ 119, 21232 DICMO, Hrvatska",Headquarters,43.637755440654,16.581045324814,matched
+D127303,AUTOSERVIS BAGY,"PUT RUDUŠE 50, 21230 SINJ, Hrvatska",Headquarters,43.701089803922,16.628125801975,matched
+D114510,VRBAT Z,"SV.IVANA TROGIRSKOG 32A, 21220 TROGIR, Hrvatska",Headquarters,43.523686404118,16.247241644304,matched
+D111511,DALMATIA CHARTER AGENCY D.O.O,"PUT BRODOGRADITELJA 7, 21220 TROGIR, Hrvatska",Headquarters,43.512764784281,16.248580569517,matched
+D115989,JAROVIT D.O.O.,"DRNIŠKI PUT 11, 21000 SPLIT, Hrvatska",Delivery,43.518498299419,16.508221252127,matched
+D107759,AUTO SERVIS R.S. D.O.O.,"KNEZA TRPIMIRA 147A, 21210 SOLIN, Hrvatska",Delivery,43.558027815799,16.497178429969,matched
+D126325,AUTOSERVIS VELJA,"GRADAC 9, 21312 PODSTRANA, Hrvatska",Headquarters,43.499592958716,16.542739186689,matched
+D129763,DE TEMPORE D.O.O.,"VUKOVARSKA 207, 21000 SPLIT, Hrvatska",Delivery,43.513472468366,16.502608143027,matched
+D131441,SAILING 4 YOU D.O.O.,"PUT KAPELE 1, 22203 ROGOZNICA, Hrvatska",Headquarters,43.540958991992,15.989012138913,matched
+D131540,AUTO MARINO,"KARAKAŠICA 38, 21230 SINJ, Hrvatska",Headquarters,43.731367144726,16.646485136819,matched
+D131810,HRVOJE OBRT,"PUT LIBOVCA 5, 21251 ŽRNOVNICA, Hrvatska",Headquarters,43.520724029988,16.529156396412,matched
+D132005,MARTIN SUČIĆ UND JARANEN JDOO,"DRAGUTINA DOMJANIĆA 18A, 10361 SESVETE-KRALJEVEC, Hrvatska",Headquarters,45.818256370639,16.179568253541,matched
+D132041,NEUBAU 22 J.D.O.O.,"PLEMENSKO 41, 21213 KAŠTEL GOMILICA, Hrvatska",Headquarters,43.551992552146,16.403662961164,matched
+D133545,AUTOSERVIS GAKAMI J.D.O.O.,"PUT DRAGOČEVA 20, 21212 KAŠTEL SUĆURAC, Hrvatska",Delivery,43.552872819618,16.422731120336,matched
+D134266,ADRIA DOCKS D.O.O.,"ROVINJSKA 4, 21000 SPLIT, Hrvatska",Headquarters,43.50704011205,16.48494110279,matched
+D134594,ROKO ČULE,"DON JOZE CULINA 15, 21204 DUGOPOLJE, Hrvatska",Headquarters,43.581468310944,16.593381388389,matched
+D134655,AUTO CENTAR MUŠE OBRT,"NINSKA 21, 21000 SPLIT, Hrvatska",Headquarters,43.512307844829,16.47770056337,matched
+D134958,FIDDLER D.O.O.,"PUT STARINA 6, 21212 KAŠTEL SUĆURAC, Hrvatska",Delivery,43.551235582471,16.43131661994,matched
+D135064,AIR CARS D.O.O.,"STROŽANAČKA 53, 21312 PODSTRANA, Hrvatska",Delivery,43.497060995315,16.537322800857,matched
+D135149,STONE TECHNOLOGY D.O.O.,"DON JOZE ČULINA 15, 21204 DUGOPOLJE, Hrvatska",Headquarters,43.581468310944,16.593381388389,matched
+D135346,TERCA ZAJEDNIČKI OBRT ZA IZRADU I USLUGE,"DALMATINSKA 35, 21220 TROGIR, Hrvatska",Headquarters,43.496925669488,16.215707918729,matched
+D135714,HANSA - FLEX CROATIA D.O.O.,"SV. LEOPOLDA MANDIĆA 22A, 21204 DUGOPOLJE, Hrvatska",Headquarters,43.586391924688,16.571694219751,matched
+D135948,LEGENDICA VIS D.O.O.,"HEKTOROVIČEVA 38C 0955052834, 21210 SOLIN, Hrvatska",Delivery,43.533106364092,16.490420185258,matched
+D135949,MARIČIĆ M.T. d.o.o.,"KRALJA DRŽISLAVA 53A, 21000 SPLIT, Hrvatska",Headquarters,43.50671376265,16.507521782307,matched
+D136011,AUTO DAVID vl.obrta DAVID NORAC-KLJAJO,"PRIBLAĆE 14, 21238 OTOK (DALMACIJA), Hrvatska",Headquarters,43.68134296205,16.723625015804,matched
+D136213,VINUM FERDINAND D.O.O.,"HRVATSKIH DOMOBRANA 3, 21420 BOL, Hrvatska",Delivery,43.262008122756,16.64727509797,matched
+D136394,JURE BEST CAR SERVICE J.D.O.O.,"SARAJEVSKA 28, 21000 SPLIT, Hrvatska",Delivery,43.520510249548,16.475053809804,matched
+D136607,AUTO CENTAR SPLIT d.o.o.,"PUT ARAPOVCA 2, 21210 SOLIN, Hrvatska",Headquarters,43.536337671586,16.502872592072,matched
+D136608,AUTO ĆUKI,"DRAČEVAC 23, 21000 SPLIT, Hrvatska",Headquarters,43.526205585118,16.503590669717,matched
+D102795,JADRANTRANSSERVIS I,"PUT BANA 22, 21204 DUGOPOLJE, Hrvatska",Headquarters,43.583436351813,16.555482490409,matched
+D109831,AUTOMEH. OBRT MARTINIĆ,"Put Zlatnog rata 61, 21420 BOL, Hrvatska",Headquarters,43.264025437303,16.64013061516,matched
